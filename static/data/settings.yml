@@ -1,0 +1,24 @@
+menu_links:
+  - { label: Home, url: "/" }
+  - { label: Sobre, url: "/about/" }
+
+social_links:
+  - {
+      label: Facebook,
+      url: "https://facebook.com/user",
+      user: isluh,
+      icon: facebook,
+    }
+  - {
+      label: Instagram,
+      url: "https://instagram.com/user",
+      user: ozluuh,
+      icon: instagram,
+    }
+
+site_text:
+  next_page: "Newer"
+  prev_page: "Older"
+  sharing_button_prompt: "Feel free to share!"
+  related_posts: "You may also enjoy..."
+  post_date_prefix: "Written on"

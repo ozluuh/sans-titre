@@ -1,0 +1,35 @@
+.floatButton {
+  background: none;
+  cursor: pointer;
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 1rem;
+  font-size: 1.4rem;
+  box-sizing: border-box;
+  transition: 0.25s ease-in-out;
+  outline: none;
+}
+
+@media (max-width: 1100px) {
+  .floatButton {
+    bottom: 0;
+    right: 0;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    font-size: 1.2rem;
+    padding: 0.8rem;
+  }
+}
+
+.dark .floatButton i,
+.light .floatButton i {
+  transition: 0.45s;
+}
+.dark .floatButton:hover i,
+.light .floatButton:hover i {
+  transform: rotate(180deg);
+}
