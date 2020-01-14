@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: blog
 title: Eu nunca consegui falar
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2019-08-02 00:00"
-dedicate: "Dedicado a Laísa Pereira"
+dedicate: "Para Pereira, L."
 categories: poesia
 tags: [poesia, amor]
 image: "/assets/album/eu-nunca-consegui-falar.jpg"

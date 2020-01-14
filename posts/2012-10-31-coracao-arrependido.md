@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: blog
 title: Coração Arrependido
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2012-10-31 19:31"
 dedicate: "Dedicado a Anielly Meneses"
 categories: poesia

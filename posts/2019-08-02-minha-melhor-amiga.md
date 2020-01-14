@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: blog
 title: Minha melhor amiga
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2019-08-02 00:00"
-dedicate: "Dedicado a Hellen Maria"
+dedicate: "Para Maria, H."
 categories: poesia
 tags: [poesia, amor]
 image: "/assets/album/minha-melhor-amiga.jpg"

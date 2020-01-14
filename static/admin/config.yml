@@ -1,0 +1,27 @@
+backend:
+  name: "github"
+  repo: "ozluuh/sans-titre"
+  branch: "master" # Branch to update (optional; defaults to master)
+  site_domain: "https://sans-titre.netlify.com"
+
+publish_mode: "editorial_workflow"
+
+media_folder: "/static/assets/album" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/assets/album" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+    - name: "blog"
+    label: "Blog"
+    folder: "posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm"}
+      - {label: "Dedicate", name: "dedicate", widget: "string", default: ""}
+      - {label: "Categories", name: "categories", widget: "string", default: ""}
+      - {label: "Tags", name: "tags", widget: "list", default: ""}
+      - {label: "Featured Image", name: "image", widget: "image", default: ""}
+      - {label: "Comments", name: "comments", widget: "hidden", default: false}
+      - {label: "Body", name: "body", widget: "markdown"}

@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: blog
 title: Eu não consigo buscar inspiração desde que você se foi...
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2012-10-22 18:06"
-dedicate: "Dedicado a Aline Balbino"
-categories: Mensagem
+dedicate: "Para Balbino, A."
+categories: ""
 tags: [poesia, amor]
 image: ""
 blogger_orig_url: >-

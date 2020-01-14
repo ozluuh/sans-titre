@@ -1,13 +1,13 @@
 ---
-layout: post
-title: Cada instante da vida...
-author: "Luís Paulino"
+layout: blog
+title: Cada_instante_da_vida
+author: "Paulino, Luís"
 date: "2012-10-22 16:42"
-dedicate: "Dedicado a Mallú Mara"
-categories: Mensagem
-tags: [amor]
+dedicate: ""
+categories: ""
+tags: []
 image: ""
-blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/blog-post.html"
+blogger_orig_url: "http_needyourlove_orig_url"
 comments: false
 ---
 

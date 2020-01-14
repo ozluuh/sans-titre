@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: blog
 title: Um anjo em forma de mulher
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2012-10-26 22:31"
-dedicate: "Dedicado a Anielly Meneses"
+dedicate: "Para Meneses, A."
 categories: poesia
 tags: [poesia, amor]
 image: "/assets/album/um-anjo-em-forma-de-mulher.jpg"

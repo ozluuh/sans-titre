@@ -1,10 +1,10 @@
 ---
-layout: post
+layout: blog
 title: De todas as mulheres que eu gostei...
-author: "Luís Paulino"
+author: "Paulino, Luís"
 date: "2012-10-23 14:25"
 dedicate: ""
-categories: Mensagem
+categories: ""
 tags: [poesia, amor]
 image: ""
 blogger_orig_url: >-
