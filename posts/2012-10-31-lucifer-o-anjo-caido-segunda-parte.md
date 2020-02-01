@@ -10,6 +10,7 @@ image: "/assets/album/lucifer-o-anjo-caido.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/o-anjo-caido-parte-2.html"
 comments: false
 ---
+
 \- Como o senhor pode os amar?\
 \- Meu filho, um dia você os entenderá.\
 \- Eles só sabem pecar,\
@@ -21,19 +22,19 @@ quando da humanidade falar...\
 \- Não posso servir um Deus\
 que, não sabe o momento de penalizar.\
 \- Então vá embora daqui e,\
-nem pense em voltar.
-
+nem pense em voltar.\
+\
 E foi assim que o Anjo Caído surgiu.\
 As atrocidades que ele faz,\
 o teu novo nome, Satanás.\
-Nem sempre ele foi um Anjo maligno...
-
+Nem sempre ele foi um Anjo maligno...\
+\
 Ele já amou de mais,\
 já foi sagaz.\
 A humanidade, hoje ele despreza\
 mas, sei que no fundo\
-por nós ele reza.
-
+por nós ele reza.\
+\
 \- Como ele pode por nós rezar,\
 sendo que ele só pensa em matar.\
 \- Ele só faz isso,\

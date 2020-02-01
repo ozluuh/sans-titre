@@ -10,11 +10,12 @@ image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/10/quantas-mais.html"
 comments: false
 ---
+
 E quantas vezes já me machuquei?\
 Quantas vezes chorei,\
 me esperneei, me calei...\
-Quantas vezes já não sofri?
-
+Quantas vezes já não sofri?\
+\
 Quantas vezes, passei por tudo isso\
 sem que você percebesse, pois eu continuava a sorrir.\
 Quantas vezes...?\

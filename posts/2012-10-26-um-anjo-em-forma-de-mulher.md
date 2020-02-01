@@ -10,6 +10,7 @@ image: "/assets/album/um-anjo-em-forma-de-mulher.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/um-anjo-em-forma-de-mulher.html"
 comments: false
 ---
+
 Hoje descobri que uma hora de vida terei…\
 — Por que, meu senhor? Onde foi que errei?\
 — Meu filho, não é sobre errar ou acertar,\
@@ -23,8 +24,8 @@ e lhe peço, aproveite este último momento ofertado a você.\
 — O que hei de fazer\
 sabendo que em uma hora não mais existirei?\
 Já que logo deixarei de viver\
-Então, minha própria vida tirarei.
-
+Então, minha própria vida tirarei.\
+\
 A ponte ele decidiu escalar.\
 Chegando ao topo, logo pensou em se suicidar\
 mas, ele não imaginava que um anjo ele fosse encontrar.\
@@ -39,8 +40,8 @@ o rapaz não queria vê-la partir.\
 Ao vê-la se afastando\
 ele titubeou querendo a chamar.\
 Ao canto do olho, ele pôde perceber\
-o que significavam aquelas palavras que não conseguia entender.
-
+o que significavam aquelas palavras que não conseguia entender.\
+\
 — Espere…\
 Foram as únicas palavras que, naquele momento,\
 ele foi capaz de dizer. As palavras que, pra ele, poderiam parar o tempo.\

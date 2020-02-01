@@ -10,6 +10,7 @@ image: "/assets/album/voce-quer-namorar-comigo.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/11/voce-quer-namorar-comigo-sabe-e-que.html"
 comments: false
 ---
+
 \- Você quer namorar comigo?\
 \- Sabe, é que... É que eu gosto de você só como amigo.\
 \- Ah... Então acho que é melhor de você eu me afastar...\
@@ -21,8 +22,8 @@ O porquê de eu ter me afastado de você.\
 \- Por favor, não faça isso comigo\
 Eu lhe peço, por favor... Meu amigo.\
 \- Sinto muito, mas... Me desculpe, mas eu vou me afastar\
-e ainda lhe peço para que, você possa um dia me perdoar...
-
+e ainda lhe peço para que, você possa um dia me perdoar...\
+\
 Um amor não compreendido.\
 Um sentimento não correspondido...\
 Sem teu calor\

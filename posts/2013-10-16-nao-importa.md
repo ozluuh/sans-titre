@@ -10,6 +10,7 @@ image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/10/nao-importa.html"
 comments: false
 ---
+
 Não importa...\
 O tempo que passe.\
 Não importa...\
@@ -37,4 +38,4 @@ Que todos que habitam o planeta terra, serão capaz de vê-la, e terão a certez
 E eu, ficarei feliz em dizer...\
 \- Olhe para o céu. Vê? Ela é sua.\
 Porque, fazê-la sorrir, é minha missão.\
-E faço isso, de todo o meu coração.\
+E faço isso, de todo o meu coração.

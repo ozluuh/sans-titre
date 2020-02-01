@@ -9,51 +9,52 @@ tags: [poesia]
 image: ""
 comments: false
 ---
+
 Eu olho pro espelho\
 e vejo tudo aquilo\
-que ousei não acreditar.
-
+que ousei não acreditar.\
+\
 Em meio essa tormenta,\
 nada mais é magnífico...\
-Nem realizar o teu desejo...
-
+Nem realizar o teu desejo...\
+\
 A poesia me deixou,\
 o passado à tona pairou.\
 O presente súbito momento\
-de redenção, não está mais a tempo...
-
+de redenção, não está mais a tempo...\
+\
 Tempo...\
 Uma medida mal definida\
 para contagem imprecisa\
-daquilo erroneamente nomeado: Momento.
-
+daquilo erroneamente nomeado: Momento.\
+\
 Onde está a concordância?\
 Onde está displicência?\
 Onde estou?\
-O que é o amor?
-
+O que é o amor?\
+\
 Talvez nada até este presente tempo\
 tenha feito sentido para desencadear tais eventos.\
 Talvez tudo o que eu escreva\
-seja uma completa asneira.
-
+seja uma completa asneira.\
+\
 Não importa o tempo,\
 os momentos,\
 eventos\
-ou quaisquer contratempos.
-
+ou quaisquer contratempos.\
+\
 Se ainda existir\
 poesia\
 então transcreverei aqueles dias\
-na mesma melodia do seu modo de sorrir.
-
+na mesma melodia do seu modo de sorrir.\
+\
 Se ainda existir poesia,\
 existirá ao menos uma vida\
 que eternizará a sua melodia\
-nos versos escritos com amor.
-
+nos versos escritos com amor.\
+\
 Se houver poesia,\
 O teu sorriso será\
-minha única melodia.
-
+minha única melodia.\
+\
 Ainda há poesia!

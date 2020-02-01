@@ -9,26 +9,27 @@ tags: [poesia]
 image: "/assets/album/por-que-eu-fui-te-amar.jpg"
 comments: false
 ---
+
 Talvez a música do momento\
 não me ajude a transparecer\
 todo esse sentimento\
-que ainda sinto por você.
-
+que ainda sinto por você.\
+\
 Saudade?\
 Já não mais define\
 isso que me arde\
-de maneira sublime.
-
+de maneira sublime.\
+\
 Talvez a pergunta\
 que jamais saberei responder\
 é justamente essa que reluta\
-ao tentar não querer saber.
-
+ao tentar não querer saber.\
+\
 Noutros olhares\
 busco aquele acalento\
 que, em forma de arte,\
-você esbanjava em seu jeito.
-
+você esbanjava em seu jeito.\
+\
 Noutros encontros\
 busco o que jamais pude compreender.\
 Talvez eu nunca esteja pronto...\

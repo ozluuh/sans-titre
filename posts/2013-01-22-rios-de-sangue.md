@@ -10,6 +10,7 @@ image: "/assets/album/rios-de-sangue.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/01/rios-de-sangue.html"
 comments: false
 ---
+
 Minha vida toda, eu venho vagando.\
 Sem rumo... Por onde eu passo acabo guerreando.\
 Nesta guerra, vejo sofrimento e escuridão.\
@@ -49,7 +50,7 @@ Eu prometo que você lerá...\
 Bom... Chegou a hora de partir.\
 Esta poderá ser a última vez que vocês me veram sorrir.\
 Se eu, com vida voltar,\
-Prometo a história retomar...
-
+Prometo a história retomar...\
+\
 Ass.: Soldado Stonne,\
 Trenth Stonne

@@ -14,28 +14,28 @@ comments: false
 Tarde da noite, é chegado o momento de repousar\
 E, aos poucos, vou retomando aquele meu lugar\
 Que eu tinha quando comecei a escrever\
-Dentro da curva mais linda que sempre admirei em você.
-
+Dentro da curva mais linda que sempre admirei em você.\
+\
 Dentro de um sorriso teu\
 Encontro o conforto\
 Que pedi a DEUS\
-Quando caminhavas feito um louco...
-
+Quando caminhavas feito um louco...\
+\
 Louco este que me rotularam\
 E que, por venturas, disfarço\
 Em uma máscara de sanidade\
-Que, esconde por debaixo a sua louca felicidade.
-
+Que, esconde por debaixo a sua louca felicidade.\
+\
 Felicidade louca esta\
 Que, em momentos felizes,\
 Sem qualquer meretrizes,\
-Prega aos outros algumas peças.
-
+Prega aos outros algumas peças.\
+\
 Loucura essa que me mantém são\
 Enquanto torno a repetir\
 "Em meu peito, palpita um coração\
-Que, apaixonado és, por teu sorrir".
-
+Que, apaixonado és, por teu sorrir".\
+\
 Sei que minha loucura fica expressa em meus versos\
 Que são sempre desconexos\
 Regados na essência do meu ser\

@@ -9,6 +9,7 @@ tags: [poesia, paixão]
 image: "/assets/album/encontrei-em-voce.jpg"
 comments: false
 ---
+
 Quiçá eu\
 tornar a escrever\
 tudo o que retenho\
@@ -18,8 +19,8 @@ de não corresponder\
 o que sinto\
 mas não demonstro\
 unicamente\
-por você.
-
+por você.\
+\
 Talvez\
 de fato\
 eu possa ser\
@@ -31,8 +32,8 @@ não apenas\
 os sentimentos puros\
 que tornei a sentir\
 especialmente\
-com você.
-
+com você.\
+\
 Tais palavras\
 que nesta exponho\
 espero fielmente\
@@ -46,8 +47,8 @@ permaneço\
 presente estar\
 ao teu lado)\
 zelando\
-pelo teu inefável amor.
-
+pelo teu inefável amor.\
+\
 Feliz eu sou\
 por ter\
 encontrado\
@@ -57,8 +58,8 @@ perfeição\
 que jamais\
 tornei a acreditar\
 poder\
-rever.
-
+rever.\
+\
 Nestas juras,\
 exclamo meu profundo amor\
 integralmente\

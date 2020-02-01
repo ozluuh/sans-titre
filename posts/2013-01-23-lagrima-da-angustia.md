@@ -10,6 +10,7 @@ image: "/assets/album/lagrima-da-angustia.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/01/lagrima-da-angustia.html"
 comments: false
 ---
+
 Quando vejo aquela lagrima escorrer\
 me vem no peito uma dor\
 pois não pude escolher\

@@ -14,17 +14,17 @@ comments: false
 As poucas palavras que surgem repentinamente\
 Recordam-me que este poeta ainda sente\
 Aquela vontade que ele sempre teve em escrever\
-E o dia de alguém enaltecer.
-
+E o dia de alguém enaltecer.\
+\
 Este poeta que pedia em troca disso\
 Apenas um tempo para leitura de sua nova obra\
 E um belo sorriso\
-Daqueles que possuem brilho de sobra.
-
+Daqueles que possuem brilho de sobra.\
+\
 É... Bem repentinamente\
 Surgiu aquela "coisa" que a gente sente.\
 Aquele sentimento indescritível,\
-Aquela sensação boa, que incrível.
-
+Aquela sensação boa, que incrível.\
+\
 Bem assim, repentinamente...\
 É tão bom ter essa sensação novamente.

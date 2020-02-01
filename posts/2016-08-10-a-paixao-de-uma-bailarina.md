@@ -20,6 +20,6 @@ Os seus movimentos ressaltavam cada pequeno detalhe de sua beleza. Os saltos e r
 Ah, a orquestra emergia em meio a enorme escuridão ganhando um leve foco e enaltecendo a sua paixão.\
 Tudo ganhava ainda mais vida, nada poderia lhe prender no lugar, nem mesmo as leis da gravidade poderiam lhe aplicar.\
 Por fim, você se despede e curva-se em agradecimento a sua plateia que emergindo vai, em meio a lágrimas eufóricas que não conseguiam ser descritas.\
-Encerrado o ato.
-
+Encerrado o ato.\
+\
 A paixão de uma bailarina.

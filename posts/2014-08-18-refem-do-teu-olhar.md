@@ -11,7 +11,7 @@ blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/08/refem-do-teu
 comments: false
 ---
 
-"Dono dos meus olhos é você"\
+\- Dono dos meus olhos é você\
 Até hoje, penso quem será o dono do teu olhar.\
 Sempre repito, que sortudo eu iria ser\
 Se fosse dono daquele olhar...\

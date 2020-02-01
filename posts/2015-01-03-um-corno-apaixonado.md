@@ -14,32 +14,32 @@ comments: false
 Sempre imaginei,\
 Nós dois sob o luar\
 Mas nunca achei\
-Que ficaria a balbuciar.
-
+Que ficaria a balbuciar.\
+\
 Hoje choro por amor\
 Na esperança de você voltar.\
 Ela me abandonou\
-E no bar estou a me lamentar.
-
+E no bar estou a me lamentar.\
+\
 Aquela mulher ingrata\
 Que me partiu o coração\
 Foi embora de uma maneira abrupta\
-Sem me deixar um tostão.
-
+Sem me deixar um tostão.\
+\
 Aquela ingratidão\
 Maldita rapariga\
 Não consigo viver minha vida\
-Se você voltar, lhe concedo o perdão.
-
+Se você voltar, lhe concedo o perdão.\
+\
 Maldita... Eu Te Amo\
-Rapariga... Não me deixa esperando.
-
+Rapariga... Não me deixa esperando.\
+\
 Vem logo, vem correndo\
 Pro meu mundo\
 Que estou morrendo\
 Sem você sou apenas um moribundo\
-Que não tem mais motivo pra continuar vivendo.
-
+Que não tem mais motivo pra continuar vivendo.\
+\
 Ela me abandonou\
 E no bar estou a me lamentar...\
 Hoje, ganho a vida neste vasto mundo\

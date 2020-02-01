@@ -9,21 +9,22 @@ tags: [poesia]
 image: ""
 comments: false
 ---
+
 Estes novos versos\
 que são compostos\
 nessa madrugada inquieta\
-a qual me traz palavras diversas.
-
+a qual me traz palavras diversas.\
+\
 Outra madrugada em claro\
 — Já virou rotineiro.\
 E mesmo assim\
-não consigo definir.
-
+não consigo definir.\
+\
 — Por que tenho passado\
 tantas noites em claro?\
 São tantos os possíveis motivos\
-que já nem sei se me questiono sobre isso.
-
+que já nem sei se me questiono sobre isso.\
+\
 Crio mais uma poesia\
 que em cada novo dia\
 tem se mostrado ser o meu refúgio\

@@ -23,6 +23,6 @@ Pessoas generosas que me ajudaram, mesmo sem me conhecer.\
 Conheci lugares lindos... Tão lindos que, da Terra, não poderiam ser.\
 Dia após dia, vagava por aí, pessoas eu conhecia...\
 Tinha motivos para sorrir.\
-Vaguei... Vaguei... Vaguei...
-
+Vaguei... Vaguei... Vaguei...\
+\
 (Continua...)

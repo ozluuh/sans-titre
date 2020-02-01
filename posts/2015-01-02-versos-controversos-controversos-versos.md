@@ -17,27 +17,27 @@ Ouvindo uma música, logo me veio lembranças de você.
 Desse teu sorriso singelo,\
 Esse teu jeito que eu venero.\
 Esse teu beijo que tanto quero,\
-E o nosso amor que eu prospero.
-
+E o nosso amor que eu prospero.\
+\
 Nesse momento,\
 Sussurro estas palavras ao vento\
 Para um longo caminho percorrer\
-E chegar ao seu destino: Você.
-
+E chegar ao seu destino: Você.\
+\
 Palavras\
 Ao teu ouvido.\
 Primícias\
-Quer namorar comigo?
-
+Quer namorar comigo?\
+\
 São versos, apenas versos.\
 Palavras... Nada mais do que palavras....\
 Mas são elas que me afastam de um nada\
-Para próximo de você, para tua morada.
-
+Para próximo de você, para tua morada.\
+\
 Apenas versos...\
 Por que soam sempre controversos?\
 Versos que elaborei pra você\
-Questões que não sei como responder.
-
+Questões que não sei como responder.\
+\
 Versos controversos.\
 Controversos versos.

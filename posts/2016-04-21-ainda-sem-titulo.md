@@ -18,8 +18,8 @@ E se alguma delas encaixava.\
 Fiquei garimpando o dicionário\
 E até folheei um antigo diário.\
 Fui ainda mais além\
-Mas, parece que nada de novo têm.
-
+Mas, parece que nada de novo têm.\
+\
 Ainda são as mesmas palavras,\
 Ainda soam rasas.\
 Poucas palavras são realmente novas\
@@ -31,8 +31,8 @@ Mas, não consigo fugir, não há trégua\
 Entre meu jeito de escrever\
 E os sentimentos que tento transcrever\
 Porque tudo é sempre tão confuso?\
-Você parece estar em um horário e eu em outro fuso.
-
+Você parece estar em um horário e eu em outro fuso.\
+\
 Sabe... às vezes eu só queria esquecer\
 E passar horas a escrever.\
 Esquecer quem sou, esquecer qualquer rancor\

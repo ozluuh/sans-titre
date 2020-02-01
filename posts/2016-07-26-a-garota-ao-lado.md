@@ -38,6 +38,6 @@ A garota aqui ao lado\
 Em que estampada em suas vestimentas não possui qualquer apelo sensual.\
 Ah... A garota aqui ao lado...\
 Talvez ela nunca chegue a apreciar minuciosamente\
-As juras deste pobre aspirante a poeta... Apaixonado.
-
+As juras deste pobre aspirante a poeta... Apaixonado.\
+\
 \* Atualização - O ano é 2018 e, finalmente, conheço A Garota ao Lado e, ela, por fim, pôde apreciar esta obra escrita em sua homenagem.

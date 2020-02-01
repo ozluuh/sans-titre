@@ -43,8 +43,8 @@ Ou se desentender.\
 Eu sempre vou te amar\
 A melhor mãe do mundo sempre será você!\
 "Mamãe, eu amo você"\
-Ass.: Luís Fernando
-
-Ps.: Foi difícil resgatar a minha caligrafia da infância viu?
-
+Ass.: Luís Fernando\
+\
+Ps.: Foi difícil resgatar a minha caligrafia da infância viu?\
+\
 Feliz Aniversário Mãe

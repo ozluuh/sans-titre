@@ -14,46 +14,46 @@ comments: false
 Conheci uma pessoa um tempo atrás,\
 E mesmo assim, ainda a desconheço.\
 Que mal isso faz?\
-Não conhecer nem um terço.
-
+Não conhecer nem um terço.\
+\
 Mesmo assim... Por que ela surgiu pra mim?\
 E por que não consigo dela me lembrar?\
 Minhas memórias mais distantes\
-Eu não consigo me recordar.
-
+Eu não consigo me recordar.\
+\
 Por que tivemos que nos apaixonar?\
 Por que não podíamos só ser colegas?\
 Por que viver algo\
-Que nenhum de nós enxergas?
-
+Que nenhum de nós enxergas?\
+\
 Sinto muito ter me apaixonado\
 E depois te abandonado...\
 Tê-la feita por mim se apaixonar\
-Para somente brigar e depois nos afastar...
-
-E voltar...
-
+Para somente brigar e depois nos afastar...\
+\
+E voltar...\
+\
 Voltar e nos afastar,\
 Voltar e nos afastar...\
-Ir e vir...
-
+Ir e vir...\
+\
 Como se fosse um iô-iô, com seu vaivém...\
-Um iô-iô... Que nunca se prende a ninguém...
-
+Um iô-iô... Que nunca se prende a ninguém...\
+\
 Essa foi a minha mais estranha paixão,\
-Uma paixão de imaginação...
-
+Uma paixão de imaginação...\
+\
 E entre as curvas do mundo,\
 Jamais serei um moribundo\
-Buscando o teu perdão...
-
-Foi somente uma confusão...
-
+Buscando o teu perdão...\
+\
+Foi somente uma confusão...\
+\
 Nunca nos amamos,\
-Foi só uma paixão.
-
+Foi só uma paixão.\
+\
 Sempre brigamos,\
-Nosso amor, foi só imaginação...
-
+Nosso amor, foi só imaginação...\
+\
 E esse teu jeito sereno,\
 Ainda tenho encantos, pelo seu corpo moreno...

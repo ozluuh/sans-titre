@@ -14,18 +14,18 @@ comments: false
 Você não precisa se preocupar.\
 Você é importante pra mim.\
 Não se importe se meu jeito mudar,\
-Nossa amizade nunca teve e nunca terá fim!
-
+Nossa amizade nunca teve e nunca terá fim!\
+\
 Vou sempre continuar aqui.\
 Sempre brincando\
 Sempre curtindo\
-Tentando fazê-la sorrir.
-
+Tentando fazê-la sorrir.\
+\
 Sei que fiz esta poesia de última hora\
 Bem de último momento\
 Não sei se você adora\
-Mas, quis aproveitar o momento.
-
+Mas, quis aproveitar o momento.\
+\
 Mesmo que tenhas demorado a confiar\
 Está aqui a mensagem que eu queria lhe mostrar.\
 Mas não adianta me agradecer...\

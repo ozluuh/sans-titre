@@ -33,6 +33,6 @@ Tive uma parada cardíaca, causador: Vírus da Paixão.\
 Observação: Não suportou a pressão, feita pela sua cabeça, talvez,\
 Alguma brincadeira de enganação...\
 Nem mil doenças são capazes de ferir um coração\
-Tão forte, como o Vírus da Paixão...
-
+Tão forte, como o Vírus da Paixão...\
+\
 (Continua...)

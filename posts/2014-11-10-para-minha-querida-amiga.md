@@ -12,54 +12,54 @@ comments: false
 ---
 
 Ao som de Mirrors\
-Eu me inspiro.
-
+Eu me inspiro.\
+\
 Me inspiro para escrever\
-Me inspiro pensando em você.
-
+Me inspiro pensando em você.\
+\
 Teu jeito inocente\
-Teu sorriso aconchegante.
-
+Teu sorriso aconchegante.\
+\
 Às vezes brinco com propostas indecentes\
-Mas me preocupo contigo a todo instante.
-
+Mas me preocupo contigo a todo instante.\
+\
 São pequenos versos pensados em você\
-São versos de melancolia, quando recordo-me que não posso te abraçar.
-
+São versos de melancolia, quando recordo-me que não posso te abraçar.\
+\
 São versos... Com aquela vontade de te ver\
-Com aquela ansiedade de te abraçar.
-
+Com aquela ansiedade de te abraçar.\
+\
 Ao som de Mirrors\
 Eu me inspiro.\
-Na cama, quero te arrancar suspiros.
-
+Na cama, quero te arrancar suspiros.\
+\
 Olha eu de novo com propostas indecentes\
 Ha ha ha!\
 Só queria mostrar o quão você é inocente\
 Aos olhos de toda essa gente\
 Chata e irritada\
-Insuportável e mal amada.
-
+Insuportável e mal amada.\
+\
 Enquanto você,\
 Linda, meiga\
-E que, no meu coração, já tem morada.
-
+E que, no meu coração, já tem morada.\
+\
 Não importa quanto tempo passe\
 Nem qual seja o lance\
-Você pode até falar: Vai se **\***!!!\
+Você pode até falar: Vai se \*\*\*\*\*!!!\
 Enquanto eu: Vamos ter nosso romance?\
-Rs
-
+Rs\
+\
 Acho que nunca vou parar\
 De ficar\
-Te dando umas cantadas.
-
+Te dando umas cantadas.\
+\
 O que posso fazer?\
 Esse é meu jetinho de ser.\
-Minha amiga linda... Eu Amo Você!!!
-
-Bjo Bjo
-
+Minha amiga linda... Eu Amo Você!!!\
+\
+Bjo Bjo\
+\
 Se cuida meu anjinho lindo\
 Rs\
 ^^

@@ -10,6 +10,7 @@ image: "/assets/album/deusa-grega-parte-1.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/01/deusa-grega-parte-1.html"
 comments: false
 ---
+
 Uma poesia para você tentei elaborar,\
 mas, não tinha nada para rimar.\
 Tentei escrever,\
@@ -58,6 +59,6 @@ Quem me entregou esta rosa foi Atena.\
 Ela me disse que a rosa forá tirada dos elíseos,\
 o campo mais puro de todo o universo.\
 Perguntei o por quê.\
-E ela me disse que queria ser você...
-
+E ela me disse que queria ser você...\
+\
 Continua...

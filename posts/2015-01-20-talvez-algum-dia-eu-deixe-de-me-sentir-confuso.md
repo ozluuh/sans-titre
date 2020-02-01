@@ -14,53 +14,53 @@ comments: false
 Ultimamente ando confuso,\
 Seria algo relacionado as voltas do mundo?\
 Não sei ao certo o que fazer...\
-Eu penso apenas em viver.
-
+Eu penso apenas em viver.\
+\
 Penso em viver,\
 Mas não sei ao certo como fazer.\
 A maneira certa de viver...\
-Será que existe uma maneira de não sofrer?
-
+Será que existe uma maneira de não sofrer?\
+\
 Sabe... Eu venho aqui todos os dias.\
 Todo dia eu venho aqui.\
 Fico vendo as minhas poesias\
-E esperando alguma surpresa que me faça sorrir.
-
+E esperando alguma surpresa que me faça sorrir.\
+\
 Não sei ao certo por que faço isso,\
 Afinal, ninguém aqui tem esse compromisso\
 Mas.... Isso é algo... Algo que não consigo descrever,\
-Algo que... Me dá mais um motivo para escrever.
-
+Algo que... Me dá mais um motivo para escrever.\
+\
 Tenho andado tão confuso...\
 Sabem... Eu me perdi no meu submundo.\
 Me perdi e agora, não consigo mais retornar\
-Para a realidade que só fez me machucar.
-
+Para a realidade que só fez me machucar.\
+\
 Eu não tenho sido feliz como outras pessoas são,\
 Pelo simples fato delas apunhalarem meu coração.\
 Sabe... Tem algo que me atormenta até hoje e.... Eu não sei o que dizer...\
-É algo que eu mesmo desconheço e que me traz essa infelicidade e essa falta de viver.
-
+É algo que eu mesmo desconheço e que me traz essa infelicidade e essa falta de viver.\
+\
 Minhas palavras são minhas únicas armas,\
 Armas que uso a meu favor\
 Não para criar novas guerras, pelo contrário\
-Para partilhar o amor.
-
+Para partilhar o amor.\
+\
 Mesmo assim, ainda existe algo dentro de mim\
 Que me puxa pra baixo...\
 Algo que eu desconheço...\
-Chego às vezes a imaginar o fim.
-
+Chego às vezes a imaginar o fim.\
+\
 Tenho andado tão confuso...\
 Eu me perdi no meu submundo.\
 Me perdi e agora não consigo mais retornar\
-Para a realidade que só fez me machucar.
-
+Para a realidade que só fez me machucar.\
+\
 Tenho me apaixonado....\
 E saído sempre machucado.\
 Finjo não ser azarado\
-Para manter o lema de 'poeta apaixonado'...
-
+Para manter o lema de 'poeta apaixonado'...\
+\
 Ninguém sabe o quão solitário eu me sinto\
 E muitas vezes, não nessas páginas de diário, mas na realidade eu minto.\
 Mentira que me machuca por dentro\
@@ -68,8 +68,8 @@ E que muitas vezes me causa tormento.\
 Mas é necessário fazer isso,\
 Por mais que eu tenha medo, tenho juízo\
 De não me abrir para qualquer pessoa\
-Mesmo que ela deixe pairar no ar o quão ela é boa.
-
+Mesmo que ela deixe pairar no ar o quão ela é boa.\
+\
 Muitas vezes, tentei escrever versos falsos\
 Para mim mesmo, eu acho...\
 Versos falsos para me confortar,\
@@ -77,13 +77,13 @@ Mas de nada adiantou... Eu ainda não consigo confiar.\
 Não consigo confiar em você,\
 Tenho muito medo de sofrer\
 Mas, se a vida fosse tão perfeita,\
-Não teria motivos para viver.
-
+Não teria motivos para viver.\
+\
 Seria apenas coisas boas que não me fariam dar valor\
 A quem já batalhou muito nessa sociedade cheia de opressor.\
 Seria uma vida sem qualquer mistério....\
-Uma vida... Uma miséria!
-
+Uma vida... Uma miséria!\
+\
 Tenho me sentido tão confuso ultimamente,\
 Muito mais do que geralmente a gente se sente.\
 Mas... Devo achar uma saída do submundo\
@@ -97,8 +97,8 @@ Meu mundo, reconfortante.\
 Mundo em que eu habito,\
 Mas que oprimem todos os meus gritos.\
 Mundo ao qual não quero desmerecer\
-Mas, eu prefiro um mundo, onde haja você.
-
+Mas, eu prefiro um mundo, onde haja você.\
+\
 Tenho andado tão confuso ultimamente...\
 (Mas só você sabe o que eu sinto.)\
 Eu sei o que você sente....\
@@ -136,16 +136,16 @@ Nada irá mudar\
 Mas... Você ainda não está pronta para saber\
 (O quanto eu gosto de você.)\
 Talvez, algum dia eu mostre pra você\
-(Os versos mais puros que consegui escrever...)
-
+(Os versos mais puros que consegui escrever...)\
+\
 Talvez algum dia...\
 Essa, não seja somente uma poesia.\
 Talvez seja uma declaração de amor que fiz pra você,\
-Mas que talvez... Você nunca venha a saber...
-
+Mas que talvez... Você nunca venha a saber...\
+\
 Tenho me sentido tão confuso ultimamente,\
 Muito mais do que geralmente a gente se sente.\
 Talvez seja um novo amor que surgiu\
-Pra mexer com os sentimentos da gente...
-
+Pra mexer com os sentimentos da gente...\
+\
 Talvez... Algum dia.

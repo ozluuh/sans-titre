@@ -12,8 +12,8 @@ comments: false
 ---
 
 Olá, bom dia.\
-Dormiu bem?
-
+Dormiu bem?\
+\
 Pensei em como compor essa obra que, eu adoraria chamar de poesia mas, ela se encaixa melhor em um poema ou até mesmo, uma simples mensagem.\
 Agora que consegui encontrar os pontos que procurava em poemas, sinto o orgulho de dizer que também faço eles raramente, não que antes não sentisse orgulho mas, a métrica não me chamava atenção.\
 E somente agora, depois de tanto tempo, por mais que estivesse na minha cara é que vim notar que, a métrica de um poema é não a utilizar.\
@@ -27,8 +27,8 @@ E então, cada obra nova ficava ainda mais difícil de compor, não por causa do
 Claro que, graças a esse defeito qualidade, obras novas e muito mais belas tornaram-se realidade como _Paraíso_, _Uma trágica história de amor_, _Trilogia Anjo Caído_ e muitas mais.\
 São obras incríveis que, eu não tenho a capacidade de as amar, por causa desse meu perfeccionismo que, hoje mais aprimorado, foca primária e secundariamente nos defeitos que por mim, naquele tempo, acabaram por passar exceto, _Um Anjo Em Forma de Mulher_, essa obra é realmente perfeita e talvez, jamais consiga superar.\
 Mas, isso é apenas mais um resmungo meu, já que, um soneto, este que vos fala já escreveu. Este que vos fala já possui mais de duzentas obras com a sua grande maioria completas e a vista de todos. Possui canções, ainda não concluídas mas, já fora uma ótima iniciativa para notar que, uma canção é uma poesia cantada seguindo praticamente a mesma métrica. Este que vos fala também possui artigos, contos e, até mesmo, poesias feitas em programação e, algumas esquetes do que, poderá no futuro, ser um livro.\
-Não sou experiente e também não possuo enorme sabedoria em muitos pontos da vida, nem mesmo na poesia que, a cada novo dia, vou redescobrindo novamente certos pontos que eu não imaginava que existia.
-
-E, novamente, cá estou, criando novos versos. Não tão belos como outros mas, carregados de sentimentos ainda inexplicáveis. Versos, sempre com o mesmo intuito que faço questão de não mudar e, a cada dia passado, me dá ainda mais vontade de continuar. Busco com estes versos, fazê-la sorrir e, não gosto de me gabar mas, sei que consigo meu objetivo atingir.
-
+Não sou experiente e também não possuo enorme sabedoria em muitos pontos da vida, nem mesmo na poesia que, a cada novo dia, vou redescobrindo novamente certos pontos que eu não imaginava que existia.\
+\
+E, novamente, cá estou, criando novos versos. Não tão belos como outros mas, carregados de sentimentos ainda inexplicáveis. Versos, sempre com o mesmo intuito que faço questão de não mudar e, a cada dia passado, me dá ainda mais vontade de continuar. Busco com estes versos, fazê-la sorrir e, não gosto de me gabar mas, sei que consigo meu objetivo atingir.\
+\
 Tenha um dia incomparável.
