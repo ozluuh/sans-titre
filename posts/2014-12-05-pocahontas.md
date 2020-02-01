@@ -4,8 +4,8 @@ title: Pocahontas
 author: "Paulino, Luís"
 date: "2014-12-05 00:40"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/12/pocahontas.html"
 comments: false

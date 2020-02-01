@@ -9,7 +9,6 @@ tags: [poesia, amor]
 image: "/assets/album/eu-nunca-consegui-falar.jpg"
 comments: false
 ---
-
 Em uma de minhas antigas poesias escrevi\
 algo que, hoje, percebo o quão era infantil.\
 Disse — Você foi o meu pior erro\

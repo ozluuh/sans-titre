@@ -4,13 +4,12 @@ title: Amiga... (Lágrimas estamos a derramar)
 author: "Paulino, Luís"
 date: "2013-05-19 14:11"
 dedicate: "Para Godoi, M."
-categories: ""
-tags: []
-image: ""
+categories: "despedida"
+tags: [despedida]
+image: "/assets/album/amiga-lagrimas-estamos-a-derramar.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/05/amiga-lagrimas-estamos-derramar.html"
 comments: false
 ---
-
 Sonhei com você.\
 O pior, foi acordar e perceber\
 Que eu não iria mais te ver...

@@ -4,12 +4,11 @@ title: Novos Ares
 author: "Paulino, Luís"
 date: "2018-09-15 23:49"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/novos-ares.jpg"
 comments: false
 ---
-
 Estive em busca de novos ares,\
 de trocas de olhares.\
 Sair da monotonia casual,\

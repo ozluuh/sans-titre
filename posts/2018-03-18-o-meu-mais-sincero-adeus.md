@@ -4,12 +4,11 @@ title: O meu mais sincero adeus
 author: "Paulino, Luís"
 date: "2018-03-18 21:01"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "mensagem"
+tags: [mensagem, despedida]
+image: "/assets/album/o-meu-mais-sincero-adeus.jpg"
 comments: false
 ---
-
 Como última indicação, gostaria que, se possível, desfrutassem desse post ao som de Ordinary World - Duran Duran.
 =]
 

@@ -4,12 +4,11 @@ title: Mais uma poesia
 author: "Paulino, Luís"
 date: "2019-09-22 03:29"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Estes novos versos\
 que são compostos\
 nessa madrugada inquieta\

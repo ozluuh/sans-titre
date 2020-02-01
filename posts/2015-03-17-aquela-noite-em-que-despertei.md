@@ -4,8 +4,8 @@ title: Aquela noite em que despertei
 author: "Paulino, Luís"
 date: "2015-03-17 04:00"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/03/aquela-noite-em-que-despertei.html"
 comments: false

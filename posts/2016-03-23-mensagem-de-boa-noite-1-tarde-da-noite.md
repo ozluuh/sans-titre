@@ -4,8 +4,8 @@ title: Mensagem de Boa Noite 1 - Tarde da Noite...
 author: "Paulino, Luís"
 date: "2016-03-23 09:10"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/03/mensagem-de-boa-noite-1-tarde-da-noite.html"
 comments: false

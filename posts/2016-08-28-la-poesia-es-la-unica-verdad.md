@@ -4,8 +4,8 @@ title: La Poesía Es La Única Verdad
 author: "Paulino, Luís"
 date: "2016-08-28 15:55"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/08/la-poesia-es-la-unica-verdad.html"
 comments: false

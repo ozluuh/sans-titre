@@ -4,8 +4,8 @@ title: Um estranho olhar
 author: "Paulino, Luís"
 date: "2016-04-02 18:55"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/04/um-estranho-olhar.html"
 comments: false

@@ -4,8 +4,8 @@ title: Doce ilusão
 author: "Paulino, Luís"
 date: "2016-04-21 13:25"
 dedicate: "Para D'Amélio, F."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/04/doce-ilusao.html"
 comments: false

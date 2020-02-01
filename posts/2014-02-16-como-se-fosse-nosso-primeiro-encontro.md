@@ -4,19 +4,18 @@ title: Como se fosse nosso primeiro encontro
 author: "Paulino, Luís"
 date: "2014-02-16 12:36"
 dedicate: "Para Evelyn, E."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/02/como-se-fosse-nosso-primeiro-encontro.html"
 comments: false
 ---
-
 Imagine nós dois a sós.\
 Uma cena romântica, ao pôr do sol.\
 Este é o primeiro dia, único, que jamais passa veloz...
 
 Agora imagine o segundo dia, já no amanhecer\
-Levo-te café na cama, começo pelo teu busto, e acarinhando-te vou...\
+levo-te café na cama, começo pelo teu busto, e acarinhando-te vou...\
 Chego no pescoço, beijos quentes a lhe dar.
 
 Coloco meus braços ao teu redor, e palavras doces ao teu ouvido eu falo...\

@@ -4,35 +4,35 @@ title: Distância
 author: "Paulino, Luís"
 date: "2013-10-01 21:41"
 dedicate: "Para Meneses, A."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/distancia.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/10/distancia.html'"
 comments: false
 ---
-
-É triste saber...\
-Que, depois de todos esses momentos,\
-E alguns contratempos,\
-Serei obrigado a me afastar de você.
+É triste saber\
+que, depois de todos esses momentos,\
+e alguns contratempos,\
+serei obrigado a me afastar de você.
 
 Não queria que fosse assim,\
-Mas, parece que o destino,\
-Vem me proibindo...\
+mas, parece que o destino,\
+vem me proibindo...\
 Levando você de mim...
 
-Mas, ei de mim,\
-Que continuo a te esperar\
-Sabendo que, mesmo assim,\
-O destino não conseguirá nos afastar...
+Mas, hei de mim,\
+que continuo a te esperar\
+sabendo que, mesmo assim,\
+o destino não conseguirá nos afastar...
 
 Não importa a distância estabelecida,\
-Não importa o quanto irei te esperar.\
-Você será sempre a minha querida,\
-A qual eu sempre irei Amar.
+não importa o quanto irei te esperar.\
+Você será a minha querida,\
+a qual eu sempre irei amar.
 
 E em meus pensamentos,\
-Relembro dos melhores momentos...\
+relembro dos melhores momentos...\
 Momentos que não vou esquecer...
 
-Os melhores momentos... Eu passei com você...
+Os melhores momentos...
+Foram aqueles em que eu passei com você...

@@ -4,8 +4,8 @@ title: Ainda escrevo para você
 author: "Paulino, Luís"
 date: "2016-03-19 13:24"
 dedicate: "Para Meneses, A."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/03/ainda-escrevo-para-voce.html"
 comments: false

@@ -4,8 +4,8 @@ title: "Natal, por um jovem poeta sonhador"
 author: "Paulino, Luís"
 date: "2014-12-24 17:27"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/12/natal-por-um-jovem-poeta-sonhador.html"
 comments: false

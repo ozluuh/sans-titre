@@ -4,8 +4,8 @@ title: Tudo ficará bem se eu estiver com vocês
 author: "Paulino, Luís"
 date: "2015-02-08 20:34"
 dedicate: "Para Ferreira, D. e Vicente, D."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/02/tudo-ficara-bem-se-eu-estiver-com-voces.html"
 comments: false

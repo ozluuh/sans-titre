@@ -4,13 +4,12 @@ title: Decisão (Despedida)
 author: "Paulino, Luís"
 date: "2017-08-23 19:40"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/decisao-despedida.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2017/08/decisao-despedida.html"
 comments: false
 ---
-
 Abro um caderno que não é meu\
 e quase sem esperança finalmente\
 encontro uma folha em branco.\

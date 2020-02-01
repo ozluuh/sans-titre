@@ -4,8 +4,8 @@ title: Somente a gente
 author: "Paulino, Luís"
 date: "2015-06-19 05:58"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/06/somente-gente.html"
 comments: false

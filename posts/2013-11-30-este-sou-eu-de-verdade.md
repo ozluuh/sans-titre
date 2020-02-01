@@ -4,13 +4,12 @@ title: Este sou eu de verdade...?
 author: "Paulino, Luís"
 date: "2013-11-30 13:38"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/este-sou-eu-de-verdade.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/11/este-sou-eu-de-verdade.html"
 comments: false
 ---
-
 Estou confuso...\
 Já não sei mais o quão realmente estou a viver.\
 Já não sei mais o quanto estou a sonhar.\

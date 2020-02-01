@@ -4,8 +4,8 @@ title: Tudo aquilo que jamais falei
 author: "Paulino, Luís"
 date: "2016-04-11 06:00"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/04/tudo-aquilo-que-jamais-falei-ato-final.html"
 comments: false

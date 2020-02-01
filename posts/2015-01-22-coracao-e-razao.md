@@ -4,8 +4,8 @@ title: Coração e Razão
 author: "Paulino, Luís"
 date: "2015-01-22 00:43"
 dedicate: "Para Santos, K."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/coracao-e-razao.html"
 comments: false

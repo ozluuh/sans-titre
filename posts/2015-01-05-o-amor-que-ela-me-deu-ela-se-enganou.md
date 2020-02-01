@@ -4,8 +4,8 @@ title: O Amor que ela me deu ( Ela se enganou)
 author: "Paulino, Luís"
 date: "2015-01-05 15:05"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/o-amor-que-ela-me-deu-ela-se-enganou.html"
 comments: false

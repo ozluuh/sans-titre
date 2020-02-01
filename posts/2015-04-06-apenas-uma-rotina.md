@@ -4,8 +4,8 @@ title: Apenas... Uma rotina
 author: "Paulino, Luís"
 date: "2015-04-06 10:53"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "ttp://i-need-your-love-now.blogspot.com/2015/04/apenas-uma-rotina.html"
 comments: false

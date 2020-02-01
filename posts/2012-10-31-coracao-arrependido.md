@@ -3,14 +3,13 @@ layout: blog
 title: Coração Arrependido
 author: "Paulino, Luís"
 date: "2012-10-31 19:31"
-dedicate: "Dedicado a Anielly Meneses"
-categories: poesia
+dedicate: "Para Meneses, A."
+categories: "poesia"
 tags: [poesia, amor]
 image: "/assets/album/coracao-arrependido.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/coracao-arrependido.html"
 comments: false
 ---
-
 \- Meu filho... O que você vais fazer?\
 \- Senhor... Me perdoe mas, já não quero mais viver.\
 \- Por quê, filho meu? Ela te magoou?\
@@ -58,8 +57,8 @@ o coração para ela entregou,\
 e ela, por fim,\
 um beijo em seus lábios selou.
 
-Ele foi desaparecendo...\
-Enquanto por ela,\
+Ele foi desaparecendo\
+enquanto que, por ela,\
 seu coração\
 apaixonadamente,\
 continuava batendo...

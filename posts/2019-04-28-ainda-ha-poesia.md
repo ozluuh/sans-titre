@@ -4,12 +4,11 @@ title: Ainda há poesia
 author: "Paulino, Luís"
 date: "2019-04-28 23:08"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Eu olho pro espelho\
 e vejo tudo aquilo\
 que ousei não acreditar.
@@ -26,7 +25,7 @@ de redenção, não está mais a tempo...
 Tempo...\
 Uma medida mal definida\
 para contagem imprecisa\
-daquilo erroneamente nomeado: momento.
+daquilo erroneamente nomeado: Momento.
 
 Onde está a concordância?\
 Onde está displicência?\

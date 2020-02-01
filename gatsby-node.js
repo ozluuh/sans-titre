@@ -25,8 +25,8 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
 // Create post pages
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
-  const blogPostTemplate = path.resolve(`./src/templates/article.js`)
-  const blogListTemplate = path.resolve(`./src/templates/article-list.js`)
+  const blogPostTemplate = path.resolve(`./src/templates/blogPost.jsx`)
+  const blogListTemplate = path.resolve(`./src/templates/blogList.jsx`)
 
   return graphql(`
     {
@@ -38,10 +38,12 @@ exports.createPages = ({ graphql, actions }) => {
             }
             frontmatter {
               title
-              date(locale: "pt-br", formatString: "DD MMM, YYYY")
+              date(locale: "pt-br", formatString: "DD MMM, YYYY [às] HH:mm")
               image
+              author
             }
             timeToRead
+            excerpt(pruneLength: 125)
           }
           next {
             fields {
@@ -52,6 +54,7 @@ exports.createPages = ({ graphql, actions }) => {
               date(locale: "pt-br", formatString: "DD MMM, YYYY")
               image
             }
+            excerpt(pruneLength: 125)
           }
           previous {
             fields {
@@ -62,6 +65,7 @@ exports.createPages = ({ graphql, actions }) => {
               date(locale: "pt-br", formatString: "DD MMM, YYYY")
               image
             }
+            excerpt(pruneLength: 125)
           }
         }
       }
@@ -84,7 +88,7 @@ exports.createPages = ({ graphql, actions }) => {
     })
 
     // Posts in page
-    const postsPerPage = 3
+    const postsPerPage = 12
     const numPages = Math.ceil(posts.length / postsPerPage)
 
     Array.from({ length: numPages }).forEach((_, index) => {

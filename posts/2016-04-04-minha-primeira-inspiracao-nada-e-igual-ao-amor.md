@@ -4,8 +4,8 @@ title: Minha primeira inspiração / Nada é igual ao amor
 author: "Paulino, Luís"
 date: "2016-04-04 00:06"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/04/minha-primeira-inspiracao-nada-e-igual.html"
 comments: false

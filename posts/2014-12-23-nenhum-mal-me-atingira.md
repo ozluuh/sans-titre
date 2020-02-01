@@ -4,8 +4,8 @@ title: Nenhum mal me atingirá
 author: "Paulino, Luís"
 date: "2014-12-23 17:32"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/12/nenhum-mal-me-atingira.html"
 comments: false

@@ -4,8 +4,8 @@ title: Volte logo, minha Amiga
 author: "Paulino, Luís"
 date: "2016-03-26 16:00"
 dedicate: "Para Martins, N."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/03/volte-logo-minha-amiga.html"
 comments: false

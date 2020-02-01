@@ -4,8 +4,8 @@ title: Transtorno de Personalidade
 author: "Paulino, Luís"
 date: "2014-11-09 16:35"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/transtorno-de-personalidade-personality.html"
 comments: false

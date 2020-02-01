@@ -4,8 +4,8 @@ title: Aquele Sentimento
 author: "Paulino, Luís"
 date: "2016-09-28 08:41"
 dedicate: "Para Lima, C."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/09/aquele-sentimento.html"
 comments: false

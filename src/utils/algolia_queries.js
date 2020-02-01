@@ -16,8 +16,9 @@ const postsQuery = `
                     categories
                     tags
                     image
+                    author
                 }
-                excerpt(pruneLength: 1000)
+                excerpt(pruneLength: 125)
             }
         }
     }

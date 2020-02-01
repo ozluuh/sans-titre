@@ -4,27 +4,27 @@ title: Ultrapasse seus limites
 author: "Paulino, Luís"
 date: "2019-06-12 10:01"
 dedicate: ""
-categories: ""
-tags: []
+categories: "mensagem"
+tags: [mensagem]
 image: ""
 comments: false
 ---
 
 Às vezes escuto:\
 
-- Gostaria de ter\
-  esse mesmo dom que há em você.\
-  Talvez eu devesse me fazer de surdo?
+\- Gostaria de ter\
+esse mesmo dom que há em você.\
+(Talvez eu devesse me fazer de surdo?)
 
-- Não há um dom em mim - retruco.\
-  Apenas não me forço a fazer\
-  algo que não me dê prazer.\
-  Deveria eu ter ficado mudo?
+\- Não há um dom em mim - retruco.\
+Apenas não me forço a fazer\
+algo que não me dê prazer.\
+(Deveria eu ter ficado mudo?)
 
-- A escrita,\
-  não é sobre escrever.\
-  É sobre transcrever\
-  tudo. Só que em forma de poesia.
+\- A escrita,\
+não é sobre escrever.\
+É sobre transcrever\
+tudo. Só que em forma de poesia.
 
 Não serei fútil\
 a ponto de deixar-me engrandecer\

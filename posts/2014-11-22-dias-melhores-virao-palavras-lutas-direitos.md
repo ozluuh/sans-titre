@@ -4,8 +4,8 @@ title: "Dias melhores virão (Palavras... Lutas... Direitos!)"
 author: "Paulino, Luís"
 date: "2014-11-22 02:45"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/dias-melhores-virao-palavras-lutas.html"
 comments: false

@@ -4,9 +4,9 @@ title: Comentários
 author: "Paulino, Luís"
 date: "2016-07-27 20:22"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/comentarios.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/07/comentarios.html"
 comments: false
 ---

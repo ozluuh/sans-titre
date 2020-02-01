@@ -4,8 +4,8 @@ title: Mensagem de Aniversário 01 - Para Sempre Você
 author: "Paulino, Luís"
 date: "2016-02-13 04:30"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/02/mensagem-de-aniversario-01-para-sempre.html"
 comments: false

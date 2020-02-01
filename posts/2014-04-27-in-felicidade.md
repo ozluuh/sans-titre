@@ -4,8 +4,8 @@ title: In-Felicidade ?
 author: "Paulino, Luís"
 date: "2014-04-27 12:06"
 dedicate: "Para Barbosa, I."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/04/in-felicidade.html"
 comments: false

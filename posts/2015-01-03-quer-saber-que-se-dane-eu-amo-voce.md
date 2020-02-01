@@ -4,8 +4,8 @@ title: Quer saber? Que se dane! Eu Amo Você!
 author: "Paulino, Luís"
 date: "2015-01-03 00:41"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/que-se-dane-eu-amo-voce.html"
 comments: false

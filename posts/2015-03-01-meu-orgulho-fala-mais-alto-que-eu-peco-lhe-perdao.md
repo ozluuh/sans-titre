@@ -4,8 +4,8 @@ title: Meu orgulho fala mais alto que eu (Peço-lhe perdão)
 author: "Paulino, Luís"
 date: "2015-03-01 04:31"
 dedicate: "Para Ferreira, D."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/03/meu-orgulho-fala-mais-alto-que-eu-peco.html"
 comments: false

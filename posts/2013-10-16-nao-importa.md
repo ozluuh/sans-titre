@@ -4,14 +4,13 @@ title: Não Importa...
 author: "Paulino, Luís"
 date: "2013-10-16 17:21"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/10/nao-importa.html"
 comments: false
 ---
-
-“Não importa...\
+Não importa...\
 O tempo que passe.\
 Não importa...\
 Qual seja a distância que nos separa.\
@@ -36,7 +35,6 @@ O mundo, só é mais feliz, com o sorriso teu.\
 Eu, falando unicamente por mim, sou capaz de ir a Lua e lá, fazer um desenho seu, com uma tinta tão forte\
 Que todos que habitam o planeta terra, serão capaz de vê-la, e terão a certeza, de que o homem já foi a Lua...\
 E eu, ficarei feliz em dizer...\
-'Olhe para o céu. Vê? Ela é sua.'"\
+\- Olhe para o céu. Vê? Ela é sua.\
 Porque, fazê-la sorrir, é minha missão.\
 E faço isso, de todo o meu coração.\
-<3

@@ -4,12 +4,11 @@ title: A nossa música
 author: "Paulino, Luís"
 date: "2019-11-01 15:03"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 A nossa música nunca mais tocou...
 
 E hoje, cá estou,\

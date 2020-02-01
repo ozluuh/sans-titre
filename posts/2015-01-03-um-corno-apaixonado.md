@@ -4,8 +4,8 @@ title: Um Corno Apaixonado
 author: "Paulino, Luís"
 date: "2015-01-03 19:21"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/um-corno-apaixonado.html"
 comments: false

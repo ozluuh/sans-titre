@@ -4,15 +4,14 @@ title: Historiador
 author: "Paulino, Luís"
 date: "2019-11-23 10:48"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 A tecnologia maravilhosa do século XXI\
 já logo me diz o que devo fazer:\
-— Comece a escrever\
+— Comece a escrever.\
 Sem ao menos me questionar se é o que desejo fazer.
 
 Hoje, o último dia aqui em Natal\

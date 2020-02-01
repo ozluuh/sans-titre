@@ -4,13 +4,12 @@ title: Foi com você...
 author: "Paulino, Luís"
 date: "2013-06-06 10:00"
 dedicate: "Para Santos, E."
-categories: ""
-tags: []
+categories: "despedida"
+tags: [despedida]
 image: ""
 blogger_orig_url: "http_needyourhttp://i-need-your-love-now.blogspot.com/2013/06/foi-com-voce.htmllove_orig_url"
 comments: false
 ---
-
 "Minha última poesia...\
 É em homenagem a você...\
 Te Amo..."

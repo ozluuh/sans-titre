@@ -4,12 +4,11 @@ title: Porque eu não te esqueço
 author: "Paulino, Luís"
 date: "2019-09-12 22:19"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/porque-eu-nao-te-esqueco.jpg"
 comments: false
 ---
-
 Tentei te esquecer\
 mas em cada pensamento\
 ía contra o meu senso\

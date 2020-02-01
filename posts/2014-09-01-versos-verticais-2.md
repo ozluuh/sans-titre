@@ -4,8 +4,8 @@ title: Versos Verticais 2
 author: "Paulino, Luís"
 date: "2014-09-01 10:18"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/09/versos-verticais-2.html"
 comments: false

@@ -4,8 +4,8 @@ title: "Raiva! (Declaração, perdão)"
 author: "Paulino, Luís"
 date: "2014-12-04 00:41"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/12/raiva-declaracao-perdao.html"
 comments: false

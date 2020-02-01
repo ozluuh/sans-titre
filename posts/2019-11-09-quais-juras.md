@@ -4,12 +4,11 @@ title: Quais juras
 author: "Paulino, Luís"
 date: "2019-11-09 15:49"
 dedicate: "Para Oliveira, N."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Pensei o que escrever\
 e muitos termos surgiram\
 pra te enaltecer\

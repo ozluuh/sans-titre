@@ -4,8 +4,8 @@ title: "Essência Divina: Deusa Mundana"
 author: "Paulino, Luís"
 date: "2015-10-14 00:01"
 dedicate: "Para Gomes, N."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/10/essencia-divina-deusa-mundana.html"
 comments: false

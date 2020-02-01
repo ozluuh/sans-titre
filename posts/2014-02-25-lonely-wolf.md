@@ -4,8 +4,8 @@ title: Lonely Wolf - Parte 2
 author: "Paulino, Luís"
 date: "2014-02-25 07:00"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/02/lonely-wolf.html"
 comments: false

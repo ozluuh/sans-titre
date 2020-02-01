@@ -4,8 +4,8 @@ title: Soneto Moderno
 author: "Paulino, Luís"
 date: "2014-10-01 17:34"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/10/soneto-moderno.html"
 comments: false

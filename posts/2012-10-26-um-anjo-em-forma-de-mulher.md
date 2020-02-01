@@ -4,13 +4,12 @@ title: Um anjo em forma de mulher
 author: "Paulino, Luís"
 date: "2012-10-26 22:31"
 dedicate: "Para Meneses, A."
-categories: poesia
-tags: [poesia, amor]
+categories: "conto"
+tags: [conto, amor, desejo]
 image: "/assets/album/um-anjo-em-forma-de-mulher.jpg"
-blogger_orig_url: ""
+blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/um-anjo-em-forma-de-mulher.html"
 comments: false
 ---
-
 Hoje descobri que uma hora de vida terei…\
 — Por que, meu senhor? Onde foi que errei?\
 — Meu filho, não é sobre errar ou acertar,\
@@ -60,7 +59,7 @@ para essa última hora de vida aproveitar.\
 A mulher não hesitou,\
 e um beijo quente nele selou.\
 Ela sentiu os lábios dele se afastar,\
-e ali, viu que o destino era algo que, ninguém poderia mudar.\
-Ali, ela viu que a vida acabara por esvair…\
-Viu-o sorrir e,\
+e, viu que o destino era algo que ninguém poderia mudar.\
+Sentiu que a vida acabara por esvair…\
+Viu-o sorrir e\
 da ponte cair…

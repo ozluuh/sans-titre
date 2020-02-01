@@ -4,12 +4,11 @@ title: Apenas deixei fluir
 author: "Paulino, Luís"
 date: "2019-08-08 02:38"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Às vezes é engraçado\
 essas minhas loucuras ao acaso\
 onde improviso sem escolher\

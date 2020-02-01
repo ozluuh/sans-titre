@@ -3,13 +3,12 @@ layout: blog
 title: A beleza ausente
 author: "Paulino, Luís"
 date: "2019-11-22 12:10"
-dedicate: ""
-categories: ""
-tags: []
+dedicate: "Para Oliveira, N."
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Dessa vez é diferente,\
 pois a escrita é cercada de gente.\
 Quem diria\

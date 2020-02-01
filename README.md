@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60045f64-0586-4e97-86c1-5a5d2080d96b/deploy-status)](https://app.netlify.com/sites/sans-titre/deploys)
+
 # Sans Titre
 
 Sans Titre é um projeto criado por um poeta aspirante a artista das artes tecnológicas que busca diariamente seu próprio cantinho para escrever.
@@ -16,16 +18,16 @@ Foi uma imensa batalha para fazer tudo funcionar mas, cá estamos.
 Deixo aqui a lista do que utilizei neste novo cantinho:
 
 - Gerador estático: [Gatsby](https://www.gatsbyjs.org)
-- Estilização: [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- Estilização: [Styled Components](https://styled-components.com/)
 - Hospedagem: [Netlify](https://www.netlify.com)
 - Criador de conteúdo: [Netlify CMS](https://www.netlifycms.org)
 - Mecanismo de busca interna: [Algolia](https://www.algolia.com)
 - Transições de página: [TransitionLink](https://transitionlink.tylerbarnes.ca/docs/)
-- Ícone:
+- Ícones: [Styled Icons](styled-icons.js.org)
 - Edição de Imagem: [Pix](https://github.com/linuxmint/pix), [Online Image Editor](https://www.online-image-editor.com/?language=portuguese)
 
 > Obs.: Lembrando que, ainda busco melhorar ele conforme minhas necessidades e algumas ferramentas poderão mudar ou não
 
 ## Agradecimentos
 
-E claro, não poderia faltar, gostaria de agradecer por acompanharem esse projeto desde a época que ainda era conhecido como **I Need Your LOVE Now** e, principalmente, a vasta documentação que cada uma dessas ferramentas possui e, claro, se deseja iniciar um projeto parecido usando o Gatsby, recomendo também o curso que deu o rumo pra ajustar umas pontas que não casavam que é justamente do [William Justen](https://willianjusten.com.br) que tem uma didática impecável.
+E claro, não poderia faltar, gostaria de agradecer por acompanharem esse projeto desde a época que ainda era conhecido como **I Need Your LOVE Now** e, principalmente, a vasta documentação que cada uma dessas ferramentas possui e, claro, se deseja iniciar um projeto parecido usando o Gatsby, recomendo também o curso que deu o rumo pra ajustar umas pontas que não casavam que é justamente do [William Justen](https://willianjusten.com.br) que tem uma didática impecável e também ao [Diego da RocketSeat](https://rocketseat.com.br/) onde pude participar de uma semana incrível da OmniStack e, claro, seus vídeos sobre React e mais recentemente sobre o próprio Gatsby tem me ajudado bastante a melhorar.

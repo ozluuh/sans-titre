@@ -9,7 +9,6 @@ tags: [poesia, amor]
 image: "/assets/album/minha-melhor-amiga.jpg"
 comments: false
 ---
-
 No começo, era apenas um jeito de me ajudar.\
 Mesmo eu sabendo que era uma péssima ideia, optei por continuar\
 e, foi nisso que questionei\

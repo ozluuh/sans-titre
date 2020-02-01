@@ -4,8 +4,8 @@ title: Transtorno de um poeta
 author: "Paulino, Luís"
 date: "2014-11-12 18:30"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/transtorno-de-um-poeta.html"
 comments: false

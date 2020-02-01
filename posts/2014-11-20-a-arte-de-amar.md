@@ -4,8 +4,8 @@ title: A Arte de Amar
 author: "Paulino, Luís"
 date: "2014-11-20 19:11"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/a-arte-de-amar.html"
 comments: false

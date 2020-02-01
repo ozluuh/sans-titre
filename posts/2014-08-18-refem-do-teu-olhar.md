@@ -4,8 +4,8 @@ title: Refém do teu olhar...
 author: "Paulino, Luís"
 date: "2014-08-18 13:14"
 dedicate: "Para Evelyn, E."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/08/refem-do-teu-olhar.html"
 comments: false

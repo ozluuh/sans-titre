@@ -4,8 +4,8 @@ title: Para Sempre Você
 author: "Paulino, Luís"
 date: "2016-10-26 22:02"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/10/para-sempre-voce.html"
 comments: false

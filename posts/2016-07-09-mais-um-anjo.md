@@ -4,8 +4,8 @@ title: Mais um Anjo
 author: "Paulino, Luís"
 date: "2016-07-09 14:32"
 dedicate: "Para Silva, P."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/07/mais-um-anjo.html"
 comments: false

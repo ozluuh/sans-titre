@@ -4,8 +4,8 @@ title: A paixão de uma bailarina
 author: "Paulino, Luís"
 date: "2016-08-10 07:42"
 dedicate: "Para Gomes, N."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/08/a-paixao-de-uma-bailarina.html"
 comments: false

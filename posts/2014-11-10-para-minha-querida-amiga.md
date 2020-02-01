@@ -4,8 +4,8 @@ title: Para minha querida amiga
 author: "Paulino, Luís"
 date: "2014-11-10 18:28"
 dedicate: "Para Dornelas, C."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/para-minha-querida-amiga.html"
 comments: false

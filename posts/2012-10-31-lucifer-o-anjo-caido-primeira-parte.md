@@ -4,13 +4,12 @@ title: "Lúcifer, o Anjo Caído - Primeira Parte"
 author: "Paulino, Luís"
 date: "2012-10-31 11:58"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "conto"
+tags: [conto, redenção]
+image: "/assets/album/lucifer-o-anjo-caido.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/lucifer-o-anjo-caido.html"
 comments: false
 ---
-
 Penso, logo existo.\
 Tento, logo desisto.\
 Ás vezes, no silêncio da noite,\

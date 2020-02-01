@@ -4,8 +4,8 @@ title: Curtir a vida adoidado (Ofusca nossa visão)
 author: "Paulino, Luís"
 date: "2015-01-13 05:00"
 dedicate: "Para Meira, A."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/curtir-vida-adoidado-ofusca-nossa-visao.html"
 comments: false

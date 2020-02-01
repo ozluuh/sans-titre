@@ -4,8 +4,8 @@ title: Estou aos Cacos (Meu coração não aguenta mais ser despedaçado)
 author: "Paulino, Luís"
 date: "2015-01-22 22:39"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/estou-aos-cacos-meu-coracao-nao-aguenta.html"
 comments: false

@@ -4,8 +4,8 @@ title: Eu só quero amar você (Minha bomba relógio)
 author: "Paulino, Luís"
 date: "2015-01-06 13:17"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: ""
 comments: false

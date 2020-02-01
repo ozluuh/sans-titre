@@ -4,51 +4,50 @@ title: Lágrima da Angústia
 author: "Rodrigues, I."
 date: "2013-01-23 16:38"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/lagrima-da-angustia.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/01/lagrima-da-angustia.html"
 comments: false
 ---
-
 Quando vejo aquela lagrima escorrer\
-Me vem no peito uma dor\
-Pois não pude escolher\
-Uma vida sem mágoas.\
+me vem no peito uma dor\
+pois não pude escolher\
+uma vida sem mágoas.\
 Quando vejo seu olhar\
-Logo sinto seu sofrimento\
-Mas eu não posso fazer nada\
-Só tenho meu lamento.\
+logo sinto seu sofrimento\
+mas eu não posso fazer nada\
+só tenho meu lamento.\
 Às vezes não consigo compreender\
-De onde vem tanto arrependimento\
-E a cada dia que passa\
-Aumenta aquele sentimento\
-De que nossas vidas poderiam\
-Se tornar uma nova historia\
-Uma vida de gloria\
-Mas será, que enfim seremos felizes?\
+de onde vem tanto arrependimento\
+e a cada dia que passa\
+aumenta aquele sentimento\
+de que nossas vidas poderiam\
+se tornar uma nova historia\
+uma vida de gloria\
+mas, será que enfim seremos felizes?\
 E quando vejo novamente\
-A lagrima de dor descendo pelo seu rosto\
-Perco meu gosto de viver\
-Logo desejo parar de pensar na sua angustia\
-E te dar o pouco que resta da minha felicidade\
-Porque a mim não importa\
-Pois enquanto você sofre\
-Eu morro por dentro.\
+a lágrima de dor descendo pelo seu rosto\
+perco meu gosto de viver.\
+Logo desejo parar de pensar na sua angústia\
+e te dar o pouco que resta da minha felicidade\
+porque a mim não importa\
+pois enquanto você sofre\
+eu morro por dentro.\
 E pelas suas palavras ditas\
-Em sua Ira\
-Ainda carrego como feridas.\
+em sua ira\
+ainda carrego como feridas.\
 E pelas suas atitudes egoístas\
-Carrego como exemplo\
-De que nunca poderão ser repetidas\
-Para não magoar corações\
-Que mesmo sem demonstrar\
-Pedem carinho e atenção.\
+carrego como exemplo\
+de que nunca poderão ser repetidas\
+para não magoar corações\
+que mesmo sem demonstrar\
+pedem carinho e atenção.\
 E quando tudo acabar\
-E você achar sua felicidade\
-Lembre-se que valeu muito a pena\
-Então esqueça aqueles problemas\
-E viva uma nova historia\
+e você achar sua felicidade\
+lembre-se que valeu muito a pena\
+então esqueça aqueles problemas\
+e viva uma nova história.\
 Você venceu a derrota\
-Mesmo quando pensou\
-Estar morta.
+mesmo quando pensou\
+estar morta.

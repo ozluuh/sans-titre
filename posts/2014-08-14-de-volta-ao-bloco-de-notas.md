@@ -4,8 +4,8 @@ title: De volta ao bloco de notas
 author: "Paulino, Luís"
 date: "2014-08-14 11:48"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/08/de-volta-ao-bloco-de-notas.html"
 comments: false

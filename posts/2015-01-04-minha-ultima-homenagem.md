@@ -4,8 +4,8 @@ title: Minha Última Homenagem
 author: "Paulino, Luís"
 date: "2015-01-04 04:29"
 dedicate: "Para Meneses, A., Valério, T., Massafera, R., Pehony, N., Costa, M. e Rodrigues, I."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/minha-ultima-homenagem.html"
 comments: false

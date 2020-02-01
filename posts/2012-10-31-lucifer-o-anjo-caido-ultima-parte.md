@@ -4,13 +4,12 @@ title: "Lúcifer, o Anjo Caído - Última Parte"
 author: "Paulino, Luís"
 date: "2012-10-31 16:14"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "conto"
+tags: [conto, redenção]
+image: "/assets/album/lucifer-o-anjo-caido.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/anjo-caido-parte-final.html"
 comments: false
 ---
-
 \- Lúcifer, um pedido lhe farei.\
 \- E o que eu ganharei?\
 \- Minha vida lhe entregarei.\

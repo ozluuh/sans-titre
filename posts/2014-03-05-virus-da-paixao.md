@@ -4,8 +4,8 @@ title: Vírus da Paixão - Parte 1
 author: "Paulino, Luís"
 date: "2014-03-05 08:00"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/03/virus-da-paixao.html"
 comments: false

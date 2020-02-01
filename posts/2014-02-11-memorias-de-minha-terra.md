@@ -4,13 +4,12 @@ title: Memórias de minha Terra
 author: "Paulino, Luís"
 date: "2014-02-11 06:00"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "conto"
+tags: [conto]
+image: "/assets/album/memorias-de-minha-terra.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/02/memorias-de-minha-terra.html"
 comments: false
 ---
-
 E mais uma noite vêm chegando.\
 Sob o luar da serra, vejo as pessoas se amando.\
 Beijo pra lá, beijo pra cá.\

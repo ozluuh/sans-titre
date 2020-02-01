@@ -4,8 +4,8 @@ title: Para meu amor
 author: "Paulino, Luís"
 date: "2016-02-11 04:00"
 dedicate: "Para Gomes, N."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/02/para-meu-amor.html"
 comments: false

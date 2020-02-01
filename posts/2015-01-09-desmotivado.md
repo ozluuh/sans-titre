@@ -4,8 +4,8 @@ title: Desmotivado
 author: "Paulino, Luís"
 date: "2015-01-09 18:50"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/desmotivado.html"
 comments: false

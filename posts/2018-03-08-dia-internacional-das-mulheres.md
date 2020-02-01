@@ -4,13 +4,12 @@ title: Dia internacional das mulheres
 author: "Paulino, Luís"
 date: "2018-03-08 07:16"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "mensagem"
+tags: [mensagem]
+image: "/assets/album/dia-internacional-das-mulheres.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2018/03/dia-internacional-das-mulheres.html"
 comments: false
 ---
-
 Mulher obra divina,\
 que a ela foi incumbido a missão de ser mãe,\
 agraciada com o dom de gerar vidas,\

@@ -4,12 +4,11 @@ title: Por que eu fui te amar?
 author: "Paulino, Luís"
 date: "2019-06-11 21:01"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/por-que-eu-fui-te-amar.jpg"
 comments: false
 ---
-
 Talvez a música do momento\
 não me ajude a transparecer\
 todo esse sentimento\

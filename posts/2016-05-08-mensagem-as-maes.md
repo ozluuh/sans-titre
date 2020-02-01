@@ -4,8 +4,8 @@ title: Mensagem às mães
 author: "Paulino, Luís"
 date: "2016-05-08 16:43"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/05/mensagem-as-maes.html"
 comments: false

@@ -4,12 +4,11 @@ title: Encontrei em você
 author: "Paulino, Luís"
 date: "2018-09-24 18:59"
 dedicate: "Para Costa, B."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia, paixão]
+image: "/assets/album/encontrei-em-voce.jpg"
 comments: false
 ---
-
 Quiçá eu\
 tornar a escrever\
 tudo o que retenho\

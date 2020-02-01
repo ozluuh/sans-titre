@@ -4,12 +4,11 @@ title: Acabei de conhecer
 author: "Paulino, Luís"
 date: "2019-05-15 23:07"
 dedicate: "Para Lilidhy, E."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/acabei-de-conhecer.jpg"
 comments: false
 ---
-
 ... E quando penso\
 que mais nada vai me surpreender,\
 vem você e muda tudo,\

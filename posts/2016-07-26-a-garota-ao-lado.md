@@ -4,8 +4,8 @@ title: A garota ao lado
 author: "Paulino, Luís"
 date: "2016-07-26 20:28"
 dedicate: "Para Correia, A."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/07/a-garota-ao-lado.html"
 comments: false

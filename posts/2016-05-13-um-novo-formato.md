@@ -4,8 +4,8 @@ title: Um Novo Formato?
 author: "Paulino, Luís"
 date: "2016-05-13 10:14"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/05/um-novo-formato.html"
 comments: false

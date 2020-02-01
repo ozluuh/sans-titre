@@ -4,12 +4,11 @@ title: Pensei que fosse fácil te esquecer
 author: "Paulino, Luís"
 date: "2019-09-16 22:32"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/pensei-que-fosse-facil-te-esquecer.jpg"
 comments: false
 ---
-
 Do nascer ao pôr do sol,\
 do despertar ao repousar sob o lençol.\
 Da casa dos meus pais até minha nova casa\

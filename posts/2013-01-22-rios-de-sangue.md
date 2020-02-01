@@ -4,23 +4,22 @@ title: Rios de Sangue
 author: "Paulino, Luís"
 date: "2013-01-22 17:02"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "conto"
+tags: [conto]
+image: "/assets/album/rios-de-sangue.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/01/rios-de-sangue.html"
 comments: false
 ---
-
 Minha vida toda, eu venho vagando.\
 Sem rumo... Por onde eu passo acabo guerreando.\
 Nesta guerra, vejo sofrimento e escuridão.\
 Vejo pessoas matando sem nenhuma compaixão.\
 Nesta guerra é matar ou morrer.\
 Onde, o mais importante aqui é sobreviver\
-\- A paz pode para sempre durar\
+\- A paz pode para sempre durar.\
 Eis que então, eles vieram o matar.\
 Um único tiro o matou,\
-E toda a nação se chocou.\
+e toda a nação se chocou.\
 Ali morria mais um... Kennedy era seu nome.\
 Este, era um bom homem.\
 Ah... Nunca tive a chance de ficar\

@@ -4,8 +4,8 @@ title: Uma paixão de imaginação
 author: "Paulino, Luís"
 date: "2014-08-01 21:07"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/08/uma-paixao-de-imaginacao.html"
 comments: false

@@ -4,8 +4,8 @@ title: Corpo sem Vida
 author: "Paulino, Luís"
 date: "2016-02-29 17:32"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/02/corpo-sem-vida.html"
 comments: false

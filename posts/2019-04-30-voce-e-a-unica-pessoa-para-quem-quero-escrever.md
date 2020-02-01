@@ -4,12 +4,11 @@ title: Você é a única pessoa para quem quero escrever
 author: "Paulino, Luís"
 date: "2019-04-30 20:05"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/voce-e-a-unica-pessoa-para-quem-quero-escrever.jpg"
 comments: false
 ---
-
 Cá estou.\
 Provavelmente esvaziando\
 novamente minha fonte\

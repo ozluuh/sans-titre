@@ -4,13 +4,12 @@ title: Não tem saída
 author: "Paulino, Luís"
 date: "2012-10-24 09:10"
 dedicate: "Para Pehony, N."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia, desejo]
+image: "/assets/album/nao-tem-saida.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/nao-tem-saida.html"
 comments: false
 ---
-
 Neste nosso amor mal vivido,\
 neste meu coração sofrido.\
 Este meu amor por você,\

@@ -4,8 +4,8 @@ title: Versos controversos (Controversos versos)
 author: "Paulino, Luís"
 date: "2015-01-02 02:02"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/versos-controversos-controversos-versos.html"
 comments: false

@@ -4,8 +4,8 @@ title: Palavras de Um Jovem Poeta Sonhador...
 author: "Paulino, Luís"
 date: "2015-04-10 13:22"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/04/palavras-de-um-jovem-poeta-sonhador.html"
 comments: false

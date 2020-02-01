@@ -4,8 +4,8 @@ title: "Um pouco sobre a vida: Um dos meus pontos de vista"
 author: "Paulino, Luís"
 date: "2015-01-26 22:28"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/um-pouco-sobre-vida-um-dos-meus-pontos.html"
 comments: false

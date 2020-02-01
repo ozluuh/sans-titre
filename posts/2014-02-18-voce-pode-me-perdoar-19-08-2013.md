@@ -4,13 +4,12 @@ title: Você pode me perdoar? (19/08/2013)
 author: "Paulino, Luís"
 date: "2014-02-18 05:30"
 dedicate: "Para Meneses, A."
-categories: ""
-tags: []
+categories: "mensagem"
+tags: [mensagem]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/02/voce-pode-me-perdoar-19082013.html"
 comments: false
 ---
-
 "Eu vejo-te a me olhar,\
 Não sei como te falar,\
 Por medo de me expressar\

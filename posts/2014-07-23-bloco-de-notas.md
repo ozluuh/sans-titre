@@ -4,8 +4,8 @@ title: Bloco de Notas
 author: "Paulino, Luís"
 date: "2014-07-23 11:55"
 dedicate: "Para Evelyn, E."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/07/bloco-de-notas.html"
 comments: false

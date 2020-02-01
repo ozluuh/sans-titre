@@ -4,8 +4,8 @@ title: Por que não admitimos o erro?
 author: "Paulino, Luís"
 date: "2014-12-07 01:37"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/12/por-que-nao-admitimos-o-erro.html"
 comments: false

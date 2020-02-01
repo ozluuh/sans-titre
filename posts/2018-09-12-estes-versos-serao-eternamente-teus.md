@@ -4,12 +4,11 @@ title: Estes versos serão eternamente teus
 author: "Paulino, Luís"
 date: "2018-09-12 23:49"
 dedicate: "Para Costa, B."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/estes-versos-serao-eternamente-teus.jpg"
 comments: false
 ---
-
 Quis inventar uma poesia\
 que fosse inovadora\
 e compor as rimas\

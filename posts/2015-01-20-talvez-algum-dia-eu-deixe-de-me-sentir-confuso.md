@@ -4,8 +4,8 @@ title: Talvez algum dia (Eu deixe de me sentir confuso)
 author: "Paulino, Luís"
 date: "2015-01-20 18:18"
 dedicate: "Para Santos, K."
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/01/talvez-algum-dia-eu-deixe-de-me-sentir.html"
 comments: false

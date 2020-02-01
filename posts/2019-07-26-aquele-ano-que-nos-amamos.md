@@ -4,12 +4,11 @@ title: Aquele ano que nos amamos
 author: "Paulino, Luís"
 date: "2019-07-26 23:22"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 Talvez...\
 Eu tenha ficado\
 preso aos momentos do passado.

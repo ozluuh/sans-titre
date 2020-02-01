@@ -4,8 +4,8 @@ title: Obra Primordial ou Primordial
 author: "Paulino, Luís"
 date: "2016-03-23 00:31"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/03/obra-primordial-ou-primordial.html"
 comments: false

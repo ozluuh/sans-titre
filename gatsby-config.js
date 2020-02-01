@@ -1,19 +1,18 @@
 const path = require("path")
-
 const queries = require("./src/utils/algolia_queries")
-
 require("dotenv").config()
 
 module.exports = {
   siteMetadata: {
-    title: `Sans Titre`,
-    description: `A arte da escrita sobre um outro ponto de vista.`,
-    author: `@OzRulez`,
-    siteUrl: `https://sanstitre.com.br`,
+    title: "Sans Titre",
+    description: "a blog about the art of writting",
+    author: "@ozrulez",
+    siteUrl: "https://sanstitre.com.br",
   },
   plugins: [
-    `gatsby-plugin-transition-link`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-transition-link`,
+    // First to be compatible with Netlify CMS
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -25,7 +24,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `images`,
+        name: `uploads`,
         // eslint-disable-next-line no-undef
         path: path.join(__dirname, `static`, `assets`, `image`),
       },
@@ -38,35 +37,8 @@ module.exports = {
         path: path.join(__dirname, `posts`),
       },
     },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `data`,
-        // eslint-disable-next-line no-undef
-        path: path.join(__dirname, `static`, `data`),
-      },
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          {
-            resolve: `gatsby-remark-relative-images`,
-            options: `uploads`,
-          },
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 960,
-              linkImagesToOriginal: false,
-            },
-          },
-          `gatsby-remark-lazy-load`,
-        ],
-      },
-    },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
+    `gatsby-transformer-remark`,
+    // Algolia Search Engine
     {
       resolve: `gatsby-plugin-algolia-search`,
       options: {
@@ -82,21 +54,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Sans Titre Project`,
-        short_name: `Sans Titre`,
-        start_url: `/`,
-        background_color: `#faf9f8`,
-        theme_color: `#faf9f8`,
-        display: `minimal-ui`,
-        icon: path.resolve("static/assets/image/favicon.png"), // This path is relative to the root of the site.
-      },
+      resolve: "gatsby-plugin-exclude",
+      options: { paths: ["/assets/album/**"] },
     },
     `gatsby-plugin-sitemap`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    `gatsby-plugin-offline`,
-    `gatsby-plugin-netlify-cms`
+    `gatsby-plugin-netlify-cms`,
   ],
 }

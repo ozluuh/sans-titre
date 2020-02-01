@@ -3,13 +3,12 @@ layout: blog
 title: E lá estava você...
 author: "Paulino, Luís"
 date: "2018-09-10 18:57"
-dedicate: ""
-categories: "Para Pereira, L."
-tags: []
-image: ""
+dedicate: "Para Pereira, L."
+categories: "poesia"
+tags: [poesia, saudade]
+image: "/assets/album/e-la-estava-voce.jpg"
 comments: false
 ---
-
 Ainda hoje, não consigo descrever\
 o turbilhão de sentimentos que senti.\
 Ainda hoje, se me repreender\
@@ -38,10 +37,10 @@ estas que logo torno a deixar escapar\
 por transbordar aquilo que tu mais me preenches.\
 O amor mais doce que se sente.
 
-"Você estais ainda mais bela\
+\- Você estais ainda mais bela\
 que costumas ser.\
 Lhe tomo como minha esposa\
-e honro a promessa de eternamente cuidar e respeitar você."
+e honro a promessa de eternamente cuidar e respeitar você.
 
 ...
 

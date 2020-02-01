@@ -4,13 +4,12 @@ title: "Lúcifer, o Anjo Caído - Segunda Parte"
 author: "Paulino, Luís"
 date: "2012-10-31 14:02"
 dedicate: ""
-categories: ""
-tags: []
-image: ""
+categories: "conto"
+tags: [conto, redenção]
+image: "/assets/album/lucifer-o-anjo-caido.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2012/10/o-anjo-caido-parte-2.html"
 comments: false
 ---
-
 \- Como o senhor pode os amar?\
 \- Meu filho, um dia você os entenderá.\
 \- Eles só sabem pecar,\

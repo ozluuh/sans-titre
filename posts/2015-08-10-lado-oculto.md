@@ -4,8 +4,8 @@ title: Lado Oculto
 author: "Paulino, Luís"
 date: "2015-08-10 20:34"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/08/lado-oculto.html"
 comments: false

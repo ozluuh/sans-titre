@@ -4,8 +4,8 @@ title: Querida Mamãe
 author: "Paulino, Luís"
 date: "2014-11-25 00:40"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2014/11/querida-mamae.html"
 comments: false

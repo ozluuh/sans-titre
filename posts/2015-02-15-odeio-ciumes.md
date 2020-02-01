@@ -4,8 +4,8 @@ title: Odeio ciúmes!
 author: "Paulino, Luís"
 date: "2015-02-15 23:58"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2015/02/odeio-ciumes.html"
 comments: false

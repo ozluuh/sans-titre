@@ -4,12 +4,11 @@ title: Eu sinto tanto a sua falta
 author: "Paulino, Luís"
 date: "2018-09-14 07:49"
 dedicate: "Para Pereira, L."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia, saudade, tristeza]
+image: "/assets/album/eu-sinto-tanto-a-sua-falta.jpg"
 comments: false
 ---
-
 Achei que o tempo fosse passar\
 sendo você o meu par\
 e por isso fiz essa canção\

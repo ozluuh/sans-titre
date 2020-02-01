@@ -4,12 +4,11 @@ title: Nas entrelinhas
 author: "Paulino, Luís"
 date: "2019-11-18 01:02"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 comments: false
 ---
-
 São quase uma da madrugada\
 e me desperto\
 sem saber nada\

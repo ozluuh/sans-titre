@@ -4,25 +4,24 @@ title: Sublime Paixão
 author: "Paulino, Luís"
 date: "2013-03-16 23:43"
 dedicate: "Para Meneses, A."
-categories: ""
-tags: []
-image: ""
+categories: "poesia"
+tags: [poesia]
+image: "/assets/album/sublime-paixao.jpg"
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2013/03/sublime-paixao.html"
 comments: false
 ---
-
-"Eu observo a beleza\
-Eu observo o Amor\
-Eu sinto a tua Destreza\
-Ao Meu Corpo, cheio de calor.\
-A tua Destreza\
-Ao me Acariciar,\
-Não se comparam nem a tua Beleza\
-Mesmo quando estais a me ignorar.\
+Eu observo a beleza\
+eu observo o amor\
+eu sinto a tua destreza\
+ao meu corpo, cheio de calor.\
+A tua destreza\
+ao me acariciar,\
+não se comparam nem a tua beleza\
+mesmo quando estais a me ignorar.\
 Tua beleza,\
-Refina ainda mais a tua Pureza.\
+refina ainda mais a tua pureza.\
 Nestes nobres versos,\
-Exponho-te os destroços\
-De meu coração...\
+exponho-te os destroços\
+de meu coração...\
 Nestes nobres versos...\
-Demonstro-te minha sublime paixão..."
+Demonstro-te minha sublime paixão...

@@ -4,8 +4,8 @@ title: Adeus... Para Sempre!
 author: "Paulino, Luís"
 date: "2016-02-27 16:42"
 dedicate: ""
-categories: ""
-tags: []
+categories: "poesia"
+tags: [poesia]
 image: ""
 blogger_orig_url: "http://i-need-your-love-now.blogspot.com/2016/02/adeus-para-sempre.html"
 comments: false
