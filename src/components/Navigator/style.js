@@ -42,7 +42,6 @@ const IconWrapper = styled.span`
 
   &:hover {
     color: ${theme.neutralSecondary};
-    transform: scale(1.3);
 
     ${media.greaterThan("medium")`
         transform: scale(1.5);

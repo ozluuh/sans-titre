@@ -3,15 +3,23 @@ import AniLink from "gatsby-plugin-transition-link/AniLink"
 
 import theme from "./theme"
 
-const Wrapper = styled.section``
-const Title = styled.h1`
+const Wrapper = styled.section`
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
+`
+const Title = styled.h1`
+  font-size: 28px;
+  padding: 10px;
 `
 const Text = styled.p`
   color: ${theme.neutralPrimary};
+  padding: 10px;
 `
 const Button = styled(AniLink)`
   cursor: pointer;
+  text-decoration: none;
   border: none;
   outline: none;
   border-radius: 5px;

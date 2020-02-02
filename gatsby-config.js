@@ -1,14 +1,10 @@
 const path = require("path")
+const siteMetadata = require("./config/metadata")
 const queries = require("./src/utils/algolia_queries")
 require("dotenv").config()
 
 module.exports = {
-  siteMetadata: {
-    title: "Sans Titre",
-    description: "a blog about the art of writting",
-    author: "@ozrulez",
-    siteUrl: "https://sanstitre.com.br",
-  },
+  siteMetadata,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-transition-link`,
@@ -18,24 +14,24 @@ module.exports = {
       options: {
         name: `uploads`,
         // eslint-disable-next-line no-undef
-        path: path.join(__dirname, `static`, `assets`, `album`),
-      },
+        path: path.join(__dirname, `static`, `assets`, `album`)
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `uploads`,
         // eslint-disable-next-line no-undef
-        path: path.join(__dirname, `static`, `assets`, `image`),
-      },
+        path: path.join(__dirname, `static`, `assets`, `image`)
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `posts`,
         // eslint-disable-next-line no-undef
-        path: path.join(__dirname, `posts`),
-      },
+        path: path.join(__dirname, `posts`)
+      }
     },
     `gatsby-transformer-remark`,
     // Algolia Search Engine
@@ -50,14 +46,21 @@ module.exports = {
         indexName: process.env.GATSBY_ALGOLIA_INDEX_NAME,
         queries,
         chunkSize: 10000,
-        enablePartialUpdates: true,
-      },
+        enablePartialUpdates: true
+      }
     },
     {
       resolve: "gatsby-plugin-exclude",
-      options: { paths: ["/assets/album/**"] },
+      options: { paths: ["/assets/album/**"] }
     },
     `gatsby-plugin-sitemap`,
-    `gatsby-plugin-netlify-cms`,
-  ],
+    {
+      resolve: `gatsby-plugin-netlify-cms`,
+      options: {
+        htmlTitle: `ST | CMS`,
+        // eslint-disable-next-line no-undef
+        htmlFavicon: `${__dirname}/static/assets/image/favicon.ico`
+      }
+    }
+  ]
 }

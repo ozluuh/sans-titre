@@ -1,13 +1,12 @@
 backend:
-  name: "github"
-  repo: "ozluuh/sans-titre"
+  name: "git-gateway"
   branch: "master" # Branch to update (optional; defaults to master)
-  site_domain: "https://sans-titre.netlify.com"
+  site_domain: "https://sanstitre.com.br"
 
 publish_mode: "editorial_workflow"
 
-media_folder: "/static/assets/album" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/assets/album" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "/static/assets/album" # Media files will be stored in the repo under this folder
+public_folder: "/assets/album" # The src attribute for uploaded media will begin with `/` this subfolder
 
 collections:
   - name: "blog"
@@ -37,12 +36,7 @@ collections:
           default: "",
           required: false,
         }
-      - {
-          label: "Categories",
-          name: "categories",
-          widget: "string",
-          default: "",
-        }
+      - { label: "Categories", name: "categories", widget: "string" }
       - { label: "Tags", name: "tags", widget: "list", default: [] }
       - {
           label: "Featured Image",
