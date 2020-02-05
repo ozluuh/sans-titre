@@ -1,8 +1,7 @@
-import React from "react"
+import React from 'react';
 
-import PostItem from "../PostItem"
-
-import { Wrapper, Title } from "./style"
+import PostItem from '../PostItem';
+import { Wrapper, Title } from './style';
 
 const RealatedPosts = ({ nextContent, prevContent }) => {
   return (
@@ -27,7 +26,7 @@ const RealatedPosts = ({ nextContent, prevContent }) => {
         />
       )}
     </Wrapper>
-  )
-}
+  );
+};
 
-export default RealatedPosts
+export default RealatedPosts;

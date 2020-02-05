@@ -1,54 +1,70 @@
 backend:
-  name: "git-gateway"
-  branch: "master" # Branch to update (optional; defaults to master)
-  site_domain: "https://sanstitre.com.br"
+  name: 'git-gateway'
+  branch: 'master' # Branch to update (optional; defaults to master)
 
-publish_mode: "editorial_workflow"
+publish_mode: 'editorial_workflow'
+site_url: 'https://sanstitre.com.br'
+logo_url: 'https://sanstitre.com.br/assets/image/favicon.ico'
 
-media_folder: "/static/assets/album" # Media files will be stored in the repo under this folder
-public_folder: "/assets/album" # The src attribute for uploaded media will begin with `/` this subfolder
+media_folder: '/static/assets/album' # Media files will be stored in the repo under this folder
+public_folder: '/assets/album' # The src attribute for uploaded media will begin with `/` this subfolder
+
+slug:
+  encoding: 'ascii'
+  clean_accents: true
+  sanitize_replacement: '-'
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "posts"
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'posts'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
-      - { label: "Title", name: "title", widget: "string" }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - { label: 'Title', name: 'title', widget: 'string' }
       - {
-          label: "Author",
-          name: "author",
-          widget: "string",
-          default: "Paulino, Luís",
+          label: 'Author',
+          name: 'author',
+          widget: 'string',
+          default: 'Paulino, Luís',
         }
       - {
-          label: "Publish Date",
-          name: "date",
-          widget: "datetime",
-          format: "YYYY-MM-DD hh:mm",
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD hh:mm',
         }
       - {
-          label: "Dedicate",
-          name: "dedicate",
-          widget: "string",
-          default: "",
-          required: false,
-        }
-      - { label: "Categories", name: "categories", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "list", default: [] }
-      - {
-          label: "Featured Image",
-          name: "image",
-          widget: "image",
-          default: "",
+          label: 'Dedicate',
+          name: 'dedicate',
+          widget: 'string',
+          default: '',
           required: false,
         }
       - {
-          label: "Comments",
-          name: "comments",
-          widget: "hidden",
+          label: 'Categories',
+          name: 'categories',
+          widget: 'select',
+          options:
+            [
+              { label: 'Poesia', value: 'poesia' },
+              { label: 'Mensagem', value: 'mensagem' },
+              { label: 'Poema', value: 'poema' },
+            ],
+        }
+      - { label: 'Tags', name: 'tags', widget: 'list', default: [''] }
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          default: '',
+          required: false,
+        }
+      - {
+          label: 'Comments',
+          name: 'comments',
+          widget: 'hidden',
           default: false,
         }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

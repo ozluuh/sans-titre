@@ -1,16 +1,32 @@
-import React from "react"
+import React, { useContext } from 'react';
 
-import { Description, Title, Wrapper, GatsbyLink } from "./style"
+import { ThemeContext } from 'styled-components';
 
-const Header = ({ title, tagline }) => (
-  <Wrapper>
-    <Title>
-      <GatsbyLink cover to="/" direction="down" bg="#faf9f8">
-        {title}
-      </GatsbyLink>
-    </Title>
-    <Description>{tagline}</Description>
-  </Wrapper>
-)
+import {
+  Description,
+  Title,
+  Wrapper,
+  GatsbyLink
+} from './style';
 
-export default Header
+const Header = ({ title, tagline }) => {
+  const { colors } = useContext(ThemeContext);
+
+  return (
+    <Wrapper>
+      <Title>
+        <GatsbyLink
+          cover
+          to="/"
+          direction="down"
+          bg={colors.background}
+        >
+          {title}
+        </GatsbyLink>
+      </Title>
+      <Description>{tagline}</Description>
+    </Wrapper>
+  );
+};
+
+export default Header;

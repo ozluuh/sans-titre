@@ -1,8 +1,11 @@
-import styled from "styled-components"
-import AniLink from "gatsby-plugin-transition-link/AniLink"
-import theme from "../../styles/theme"
+import AniLink from 'gatsby-plugin-transition-link/AniLink';
+import { shade } from 'polished';
+import styled from 'styled-components';
+import media from 'styled-media-query';
 
 const Wrapper = styled.header`
+  background: ${props =>
+    shade(0.15, props.theme.colors.background)} !important;
   display: flex;
   position: fixed;
   flex-direction: column;
@@ -11,24 +14,29 @@ const Wrapper = styled.header`
   top: 0;
   left: 0;
   right: 0;
-  background: ${theme.white};
-`
+  transition: background 0.25s;
+`;
 const Title = styled.h1`
-  font-size: 1.75rem;
+  font-size: 1.75em;
   font-weight: lighter;
   font-variant: small-caps;
-`
+`;
 const Description = styled.p`
-  font-size: 1.125rem;
-  color: ${theme.themeTertiary};
+  font-size: 1.125em;
+  color: ${props =>
+    shade(-0.15, props.theme.colors.primary)};
+  transition: color 0.25s;
 
-  @media (max-width: 980px) {
-    display: none;
-  }
-`
+  ${media.lessThan('medium')`display: none;`}
+`;
 const GatsbyLink = styled(AniLink)`
   text-decoration: none;
-  color: ${theme.themePrimary};
-`
+  color: ${props =>
+    shade(
+      props.theme.shade.header.primary,
+      props.theme.colors.primary
+    )};
+  transition: color 0.25s;
+`;
 
-export { Wrapper, Title, Description, GatsbyLink }
+export { Wrapper, Title, Description, GatsbyLink };

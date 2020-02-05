@@ -1,6 +1,8 @@
-import React from "react"
+import React, { useContext } from 'react';
 
-import { Button, Wrapper, Span } from "./style"
+import { ThemeContext } from 'styled-components';
+
+import { Button, Wrapper, Span } from './style';
 
 const Paginator = ({
   isFirst,
@@ -8,31 +10,45 @@ const Paginator = ({
   currentPage,
   numPages,
   prevPage,
-  nextPage,
-}) => (
-  <Wrapper>
-    {!isFirst ? (
-      <Button cover to={prevPage} direction="right" bg="#faf9f8">
-        Anterior
-      </Button>
-    ) : (
-      <Button as="button" disabled>
-        Anterior
-      </Button>
-    )}
-    <Span>
-      {currentPage} de {numPages}
-    </Span>
-    {!isLast ? (
-      <Button cover to={nextPage} direction="left" bg="#faf9f8">
-        Próxima
-      </Button>
-    ) : (
-      <Button as="button" disabled>
-        Próxima
-      </Button>
-    )}
-  </Wrapper>
-)
+  nextPage
+}) => {
+  const { colors } = useContext(ThemeContext);
 
-export default Paginator
+  return (
+    <Wrapper>
+      {!isFirst ? (
+        <Button
+          cover
+          to={prevPage}
+          direction="right"
+          bg={colors.background}
+        >
+          Anterior
+        </Button>
+      ) : (
+        <Button as="button" disabled>
+          Anterior
+        </Button>
+      )}
+      <Span>
+        {currentPage} de {numPages}
+      </Span>
+      {!isLast ? (
+        <Button
+          cover
+          to={nextPage}
+          direction="left"
+          bg={colors.background}
+        >
+          Próxima
+        </Button>
+      ) : (
+        <Button as="button" disabled>
+          Próxima
+        </Button>
+      )}
+    </Wrapper>
+  );
+};
+
+export default Paginator;

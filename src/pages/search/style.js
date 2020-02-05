@@ -1,8 +1,11 @@
-import styled from "styled-components"
+import {shade} from "polished"
+import styled from 'styled-components';
 
-import theme from "../../styles/theme"
+import { WrapperStyle } from '../../styles/global';
 
 const Wrapper = styled.div`
+  ${WrapperStyle}
+
   .ais-InstantSearch__root {
     display: flex;
     flex-direction: column;
@@ -11,7 +14,8 @@ const Wrapper = styled.div`
   }
 
   .ais-Stats-text {
-    color: ${theme.neutralSecondary};
+    color: ${props => shade(0.60, props.theme.colors.text)};
+    transition: color 0.25s;
   }
 
   .ais-SearchBox,
@@ -26,17 +30,20 @@ const Wrapper = styled.div`
   .ais-SearchBox-input {
     background: none;
     border: none;
+    color: ${props => shade(0.55, props.theme.colors.text)};
     border-bottom-width: 2px;
     border-bottom-style: solid;
-    border-color: ${theme.neutralSecondary};
+    border-color: ${props => shade(0.65, props.theme.colors.text)};
     display: flex;
-    font-size: 1.6rem;
+    font-size: 1.6em;
     padding: 0.7rem 1rem;
     width: 100%;
+    transition: color 0.25s;
   }
 
   .ais-SearchBox-input:focus {
-    color: ${theme.neutralPrimary};
+    color: ${props => shade(0.25, props.theme.colors.text)};
+    transition: color 0.25s;
     outline: none;
   }
 
@@ -59,6 +66,6 @@ const Wrapper = styled.div`
     width: 100%;
     margin: 0;
   }
-`
+`;
 
-export { Wrapper }
+export { Wrapper };

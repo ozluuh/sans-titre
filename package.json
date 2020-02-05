@@ -18,15 +18,20 @@
     "dotenv": "^8.2.0",
     "gatsby": "^2.4.0",
     "gatsby-plugin-algolia-search": "^0.5.6",
-    "gatsby-plugin-exclude": "^1.0.2",
+    "gatsby-plugin-feed": "^2.3.27",
+    "gatsby-plugin-manifest": "^2.2.41",
     "gatsby-plugin-netlify-cms": "^4.1.37",
+    "gatsby-plugin-offline": "^3.0.34",
+    "gatsby-plugin-page-creator": "^2.1.40",
     "gatsby-plugin-react-helmet": "^3.1.21",
     "gatsby-plugin-sitemap": "^2.2.26",
     "gatsby-plugin-transition-link": "^1.17.7",
+    "gatsby-plugin-webfonts": "^1.1.2",
     "gatsby-source-filesystem": "^2.1.47",
     "gatsby-transformer-remark": "^2.6.49",
     "gsap": "^3.1.1",
     "netlify-cms-app": "^2.11.12",
+    "polished": "^3.4.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
@@ -36,6 +41,7 @@
     "styled-media-query": "^2.1.2"
   },
   "devDependencies": {
+    "eslint-plugin-import-helpers": "^1.0.2",
     "prettier": "^1.17.0"
   },
   "repository": {

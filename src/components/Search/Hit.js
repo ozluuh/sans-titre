@@ -1,5 +1,6 @@
-import React from "react"
-import PostItem from "../PostItem"
+import React from 'react';
+
+import PostItem from '../PostItem';
 
 const Hit = ({ hit }) => (
   <section>
@@ -7,10 +8,10 @@ const Hit = ({ hit }) => (
       slug={hit.fields.slug}
       date={hit.date}
       title={hit.title}
-      description={""}
+      description={hit.excerpt}
       author={hit.author}
     />
   </section>
-)
+);
 
-export default Hit
+export default Hit;

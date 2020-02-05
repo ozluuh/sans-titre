@@ -1,6 +1,5 @@
-import styled from "styled-components"
-
-import theme from "../../styles/theme"
+import { shade } from 'polished';
+import styled from 'styled-components';
 
 const Wrapper = styled.section`
   display: block;
@@ -11,10 +10,15 @@ const Wrapper = styled.section`
   @media (min-width: 768px) {
     padding: 0 6em;
   }
-`
+`;
 const Title = styled.h3`
   font-size: 1.125em;
-  color: ${theme.neutralSecondary};
-`
+  color: ${props =>
+    shade(
+      props.theme.shade.relatedPosts,
+      props.theme.colors.text
+    )};
+  transition: color 0.25s;
+`;
 
-export { Wrapper, Title }
+export { Wrapper, Title };

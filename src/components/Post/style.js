@@ -1,41 +1,65 @@
-import styled from "styled-components"
+import { shade } from 'polished';
+import styled from 'styled-components';
 
-import theme from "../../styles/theme"
+import { WrapperStyle } from '../../styles/global';
 
 const Article = styled.article`
-  padding: 0 1em;
-  transition: padding 0.25s;
-  line-height: 24px;
-
-  @media (min-width: 768px) {
-    padding: 0 6em;
-  }
-`
+  ${WrapperStyle}
+`;
 const Title = styled.h1`
   font-size: 1.75em;
   font-weight: lighter;
-  color: ${theme.themeSecondary};
-`
+  color: ${props =>
+    shade(
+      props.theme.shade.post.title,
+      props.theme.colors.primary
+    )};
+  transition: color 0.25s;
+`;
 const Author = styled.em`
   display: block;
   font-size: 1.15em;
-  color: ${theme.neutralSecondary};
-`
+  color: ${props =>
+    shade(
+      props.theme.shade.post.author,
+      props.theme.colors.text
+    )};
+  transition: color 0.25s;
+`;
 const Body = styled.div`
   padding-top: 30px;
   font-size: 1.125em;
-  color: ${theme.neutralPrimary};
-`
+  color: ${props => props.theme.colors.text};
+  transition: color 0.25s;
+`;
 const Dedicate = styled.cite`
   display: block;
-  color: ${theme.neutralSecondary};
-`
+  color: ${props =>
+    shade(
+      props.theme.shade.post.dedicate,
+      props.theme.colors.text
+    )};
+  transition: color 0.25s;
+`;
 const TextDate = styled.p`
   padding-top: 10px;
   font-style: italic;
   font-size: 0.875em;
-  color: ${theme.neutralPrimary};
-`
-const Date = styled.time``
+  color: ${props =>
+    shade(
+      props.theme.shade.post.textDate,
+      props.theme.colors.text
+    )};
+  transition: color 0.25s;
+`;
+const Date = styled.time``;
 
-export { Article, Title, Author, Body, Dedicate, Date, TextDate }
+export {
+  Article,
+  Title,
+  Author,
+  Body,
+  Dedicate,
+  Date,
+  TextDate
+};

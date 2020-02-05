@@ -2,16 +2,25 @@
   "extends": ["react-app", "eslint:recommended"],
   "env": {
     "es6": true,
-    // seu ambiente, node e/ou navegador:
     "node": false,
     "browser": true
   },
-  "plugins": ["react"], // opcional, se você estiver usando React
+  "plugins": ["react", "import-helpers"], // opcional, se você estiver usando React
   "parserOptions": {
     "ecmaVersion": 6,
     "sourceType": "module",
     "ecmaFeatures": {
       "jsx": true // se estiver usando JSX
     }
+  },
+  "rules": {
+    "import-helpers/order-imports": [
+      "warn",
+      {
+        "newlinesBetween": "always", // new line between groups
+        "groups": ["/^react/", "module", ["parent", "sibling", "index"]],
+        "alphabetize": { "order": "asc", "ignoreCase": true }
+      }
+    ]
   }
 }
