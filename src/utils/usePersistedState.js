@@ -3,7 +3,7 @@ import {useState, useEffect} from "react";
 
 function usePersistedState(key, initialState) {
     const [state, setState] = useState(() => {
-        const storageValue = localStorage.getItem(key);
+        const storageValue = typeof window !== "undefined" && window.localStorage.getItem(key);
 
         if(storageValue) {
             return JSON.parse(storageValue);
@@ -13,7 +13,7 @@ function usePersistedState(key, initialState) {
     });
 
     useEffect(() => {
-        localStorage.setItem(key, JSON.stringify(state));
+        window.localStorage.setItem(key, JSON.stringify(state));
     }, [key, state]);
 
     return [state, setState];

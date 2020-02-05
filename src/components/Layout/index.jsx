@@ -5,7 +5,7 @@ import { TransitionPortal } from 'gatsby-plugin-transition-link';
 import PropTypes from 'prop-types';
 import { ThemeProvider } from 'styled-components';
 
-import GlobalStyle from "../../styles/global";
+import GlobalStyle from '../../styles/global';
 import MeyerReset from '../../styles/reset';
 import dark from '../../styles/themes/dark';
 import light from '../../styles/themes/light';
@@ -42,17 +42,17 @@ const Layout = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
       <MeyerReset />
-          <GlobalStyle />
-        <Wrapper id="App">
-          <TransitionPortal level="top">
-            <Header title={title} tagline={description} />
-          </TransitionPortal>
-          <Container>{children}</Container>
-          <Footer title={title} />
-          <TransitionPortal level="top">
-            <Navigator toggleTheme={toggleTheme} />
-          </TransitionPortal>
-        </Wrapper>
+      <GlobalStyle />
+      <Wrapper id="App">
+        <TransitionPortal level="top">
+          <Header title={title} tagline={description} />
+        </TransitionPortal>
+        <Container>{children}</Container>
+        <Footer title={title} />
+        <TransitionPortal level="top">
+          <Navigator toggleTheme={toggleTheme} />
+        </TransitionPortal>
+      </Wrapper>
     </ThemeProvider>
   );
 };
