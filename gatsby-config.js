@@ -5,7 +5,6 @@ const queries = require('./src/utils/algolia_queries');
 require('dotenv').config();
 
 const pluginConfig = [
-  `gatsby-plugin-typescript`,
   `gatsby-plugin-react-helmet`,
   `gatsby-plugin-transition-link`,
   `gatsby-transformer-remark`,
