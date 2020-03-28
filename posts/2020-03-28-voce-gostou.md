@@ -3,7 +3,7 @@ layout: blog
 title: Você gostou?
 author: 'Paulino, Luís'
 date: '2020-03-27 09:03'
-dedicate: 'Dedicado a , P.'
+dedicate: 'Dedicado a Santos, P.'
 categories: poesia
 tags:
   - poesia
