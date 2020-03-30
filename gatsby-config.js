@@ -20,14 +20,6 @@ const pluginConfig = [
   {
     resolve: `gatsby-source-filesystem`,
     options: {
-      name: `uploads`,
-      // eslint-disable-next-line no-undef
-      path: path.resolve(`${__dirname}/static/assets/album`)
-    }
-  },
-  {
-    resolve: `gatsby-source-filesystem`,
-    options: {
       name: `image`,
       // eslint-disable-next-line no-undef
       path: path.resolve(`${__dirname}/static/assets/image`)
@@ -55,18 +47,18 @@ const pluginConfig = [
       fonts: {
         google: [
           {
-            family: "Roboto",
-            variants: ["400", "700"],
-            fontDisplay: 'swap',
+            family: 'Roboto',
+            variants: ['400', '700'],
+            fontDisplay: 'swap'
           },
           {
-            family: "Montserrat",
-            variants: ["700", "900"],
-            fontDisplay: 'swap',
-          },
-        ],
-      },
-    },
+            family: 'Montserrat',
+            variants: ['700', '900'],
+            fontDisplay: 'swap'
+          }
+        ]
+      }
+    }
   },
   {
     resolve: `gatsby-plugin-manifest`,
@@ -99,16 +91,28 @@ const pluginConfig = [
       `,
       feeds: [
         {
-          serialize: ({ query: { site, allMarkdownRemark } }) => {
+          serialize: ({
+            query: { site, allMarkdownRemark }
+          }) => {
             return allMarkdownRemark.edges.map(edge => {
-              return Object.assign({}, edge.node.frontmatter, {
-                description: edge.node.excerpt,
-                date: edge.node.frontmatter.date,
-                url: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
-                custom_elements: [{ "content:encoded": edge.node.html }],
-              })
-            })
+              return Object.assign(
+                {},
+                edge.node.frontmatter,
+                {
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url:
+                    site.siteMetadata.siteUrl +
+                    edge.node.fields.slug,
+                  guid:
+                    site.siteMetadata.siteUrl +
+                    edge.node.fields.slug,
+                  custom_elements: [
+                    { 'content:encoded': edge.node.html }
+                  ]
+                }
+              );
+            });
           },
           query: `
           {
@@ -130,11 +134,11 @@ const pluginConfig = [
             }
           }
           `,
-          output: "/feed.xml",
-          title: "Sans Titre — RSS Feed",
-        },
-      ],
-    },
+          output: '/feed.xml',
+          title: 'Sans Titre — RSS Feed'
+        }
+      ]
+    }
   },
   `gatsby-plugin-offline`,
   `gatsby-plugin-sitemap`
