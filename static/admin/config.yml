@@ -2,7 +2,6 @@ backend:
   name: 'git-gateway'
   branch: 'master' # Branch to update (optional; defaults to master)
 
-publish_mode: 'editorial_workflow'
 site_url: 'https://sanstitre.com.br'
 logo_url: 'https://sanstitre.com.br/assets/image/favicon.ico'
 
@@ -21,7 +20,12 @@ collections:
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'blog' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: 'blog',
+        }
       - { label: 'Title', name: 'title', widget: 'string' }
       - {
           label: 'Author',
@@ -53,7 +57,12 @@ collections:
               { label: 'Poema', value: 'poema' },
             ],
         }
-      - { label: 'Tags', name: 'tags', widget: 'list', default: [''] }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          default: [''],
+        }
       - {
           label: 'Featured Image',
           name: 'image',
