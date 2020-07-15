@@ -1,7 +1,9 @@
 import AniLink from 'gatsby-plugin-transition-link/AniLink';
 import { shade } from 'polished';
 import styled from 'styled-components';
-import media from 'styled-media-query';
+import media, { generateMedia } from 'styled-media-query';
+
+const customMedia = generateMedia({ medium: '767px' });
 
 const Wrapper = styled.aside`
   display: flex;
@@ -12,7 +14,7 @@ const Wrapper = styled.aside`
   background: ${props => props.theme.colors.background};
   transition: background 0.25s, border 0.25s;
 
-  ${media.lessThan('medium')`
+  ${customMedia.lessThan('medium')`
     left: 0;
     bottom: 0;
     border-top: 1px solid ${props =>
