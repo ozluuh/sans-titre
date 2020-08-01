@@ -77,3 +77,69 @@ collections:
           default: false,
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'data'
+    label: 'Blog - JSON'
+    folder: 'data'
+    create: true
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    extension: 'json'
+    format: 'json'
+    fields:
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'hidden',
+          default: 'blog',
+        }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Author',
+          name: 'author',
+          widget: 'string',
+          default: 'Paulino, Luís',
+        }
+      - {
+          label: 'Publish Date',
+          name: 'date',
+          widget: 'datetime',
+          format: 'YYYY-MM-DD hh:mm',
+        }
+      - {
+          label: 'Dedicate',
+          name: 'dedicate',
+          widget: 'string',
+          default: '',
+          required: false,
+        }
+      - {
+          label: 'Categories',
+          name: 'categories',
+          widget: 'select',
+          options:
+            [
+              { label: 'Poesia', value: 'poesia' },
+              { label: 'Mensagem', value: 'mensagem' },
+              { label: 'Poema', value: 'poema' },
+            ],
+        }
+      - {
+          label: 'Tags',
+          name: 'tags',
+          widget: 'list',
+          default: [''],
+        }
+      - {
+          label: 'Featured Image',
+          name: 'image',
+          widget: 'image',
+          default: '',
+          required: false,
+        }
+      - {
+          label: 'Comments',
+          name: 'comments',
+          widget: 'hidden',
+          default: false,
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
