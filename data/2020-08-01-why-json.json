@@ -1,0 +1,14 @@
+{
+  "body": "JSON should be a great format to publish my poems.",
+  "layout": "blog",
+  "author": "Paulino, Luís",
+  "date": "2020-08-01 04:31",
+  "comments": false,
+  "dedicate": "",
+  "title": "Why JSON?",
+  "tags": [
+    "json"
+  ],
+  "image": "",
+  "categories": "poema"
+}
